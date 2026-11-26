@@ -24,7 +24,7 @@
 
 Most "chat with your data" tools upload your file to someone else's server. DashAgent does the whole job in the browser tab: the database, the charts, and even the AI model, which can run on your CPU with no GPU and no API key.
 
-**[Live demo](https://lokendra-builds.github.io/dashagent/)** · [Try it](#try-it-in-10-seconds) · [Features](#features) · [Models](#local-ai-models-cpu-gpu-ollama-or-claude) · [Built with](#built-with) · [Run locally](#run-locally)
+**[Live demo](https://lokendra-builds.github.io/dashagent/)** · [Video](#watch-the-demo-video) · [Try it](#try-it-in-10-seconds) · [Features](#features) · [Models](#local-ai-models-cpu-gpu-ollama-or-claude) · [Built with](#built-with) · [Run locally](#run-locally)
 
 </div>
 
@@ -33,6 +33,16 @@ Most "chat with your data" tools upload your file to someone else's server. Dash
     <img src="screenshots/demo.gif" alt="DashAgent demo: load a CSV, the dashboard builds itself, ask a question, the chart lands on the dashboard with its SQL" width="100%">
   </a>
 </p>
+
+## Watch the demo video
+
+<p align="center">
+  <a href="https://youtu.be/7y68vpB1RgU">
+    <img src="https://img.youtube.com/vi/7y68vpB1RgU/maxresdefault.jpg" alt="Watch the DashAgent demo on YouTube: 3 minutes of real questions answered by a local AI model running on the CPU" width="100%">
+  </a>
+</p>
+
+<p align="center"><b><a href="https://youtu.be/7y68vpB1RgU">▶ Watch on YouTube</a></b> (3:25): a real, unedited session on the CPU model. Sales and traffic samples, a user's own CSV, follow-up questions, an honest "no such column" answer, SQL, export and chat history.</p>
 
 ## Try it in 10 seconds
 

@@ -123,6 +123,7 @@ export function repairSQL(sql, schema) {
 /** Concrete advice for the errors small models make most, so a retry doesn't repeat the mistake. */
 function fixHint(error) {
   const e = String(error);
+  if (/parenthes[ie]s are unbalanced/i.test(e)) return '\nHint: your SQL was cut off. Inside the JSON "sql" string, escape every double quote as \\" (or leave simple column names unquoted). Make sure every ( has a ). Example: {"action":"query","sql":"SELECT COUNT(*) AS value FROM data WHERE login_email LIKE \'%text%\'"}';
   if (/GROUP BY|aggregate function/i.test(e)) return '\nHint: every selected column must be in GROUP BY or wrapped in SUM(), AVG(), COUNT(), MIN() or MAX(). For a share by category: SELECT "category" AS label, SUM("x") AS value FROM data GROUP BY 1.';
   if (/does not exist|not found|Referenced column/i.test(e)) return '\nHint: use only the column names listed above, in double quotes, exactly as written.';
   if (/Conversion Error|Could not convert|cast/i.test(e)) return '\nHint: a column has a different type than you assumed; use TRY_CAST or compare as text.';
@@ -203,11 +204,14 @@ export async function runAgent({ question, schema, sample, llm, query, onStep = 
   ];
   const steps = [];
   let lastError = null;
+  // Strict JSON (where the model supports it) keeps replies short and whole, but a model that forgets to
+  // escape a quote inside "sql" gets its string ended early. After a cut-off reply, ask again without it.
+  let strict = true;
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     if (signal?.aborted) throw stopped();
     let reply;
     try {
-      reply = await llm(messages, { signal, json: true });
+      reply = await llm(messages, { signal, json: strict });
     } catch (e) {
       if (signal?.aborted) throw stopped();
       throw e;
@@ -259,8 +263,10 @@ export async function runAgent({ question, schema, sample, llm, query, onStep = 
     if (error) {
       step.error = error;
       onStep(step);
-      // The same error twice means the model is stuck; more tries only cost time.
-      if (error === lastError) break;
+      const switched = strict && /parenthes[ie]s are unbalanced/i.test(error);
+      if (switched) strict = false;
+      // The same error twice means the model is stuck (unless it just lost strict JSON mode).
+      if (error === lastError && !switched) break;
       lastError = error;
       messages.push({ role: 'user', content: `That failed: ${error}${fixHint(error)}\nFix it and reply with one JSON object only.` });
       continue;

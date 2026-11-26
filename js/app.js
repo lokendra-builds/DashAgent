@@ -291,7 +291,10 @@ function nextQuestions(cols, result, card) {
   const otherCats = state.profiled.filter((c) => c.kind === 'category' && c.name !== usedCat?.name);
   const date = state.profiled.find((c) => c.kind === 'date');
   const x = card?.chart?.x;
-  const top = x && result?.rows?.[0]?.[x] != null ? String(result.rows[0][x]) : null;
+  const first = x ? result?.rows?.[0]?.[x] : null;
+  // A trend's first x is a date ("2025-01-01T00:00:00Z"), not a category worth a follow-up.
+  const isDate = first instanceof Date || /^\d{4}-\d{2}-\d{2}/.test(String(first ?? ''));
+  const top = first != null && !isDate ? String(first) : null;
   const m = measure ? lower(measure.name) : 'rows';
   const out = [];
   if (top && date && usedCat) out.push(`How has ${m} for ${top} changed over time?`);
@@ -341,7 +344,8 @@ function messageEl(m) {
     s.textContent = `Fixed its SQL after ${m.fixes} error${m.fixes > 1 ? 's' : ''}.`;
     el.appendChild(s);
   }
-  if (m.steps?.some((st) => st.state === 'failed')) {
+  // Only a successful answer "fixed" its SQL; a failed one already says it couldn't answer.
+  if (!m.error && m.steps?.some((st) => st.state === 'failed')) {
     const n = m.steps.filter((st) => st.state === 'failed').length;
     const s = document.createElement('div');
     s.className = 'steps-note';

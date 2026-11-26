@@ -1,0 +1,15 @@
+{
+  "name": "DashAgent: chat with your CSV",
+  "short_name": "DashAgent",
+  "description": "Drop a CSV, get a dashboard, ask in plain English. Runs 100% in your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b1030",
+  "theme_color": "#1b1030",
+  "icons": [
+    { "src": "assets/logo-art-256.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "assets/logo-art-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

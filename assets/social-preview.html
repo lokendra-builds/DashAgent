@@ -1,0 +1,35 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box}html,body{margin:0}
+body{width:1280px;height:640px;overflow:hidden;position:relative;font-family:"Noto Sans",system-ui,sans-serif;color:#fff;
+ background-color:#0a0614;
+ background-image:
+  radial-gradient(620px 620px at 6% 10%, rgba(124,58,237,.85), transparent 62%),
+  radial-gradient(560px 560px at 62% -6%, rgba(37,99,235,.7), transparent 62%),
+  radial-gradient(620px 620px at 100% 92%, rgba(236,72,153,.6), transparent 62%),
+  radial-gradient(520px 520px at 30% 112%, rgba(249,115,22,.45), transparent 62%);}
+.left{position:absolute;left:64px;top:0;bottom:0;width:540px;display:flex;flex-direction:column;justify-content:center}
+.brand{display:flex;align-items:center;gap:18px;margin-bottom:34px}
+.brand img{width:72px;height:72px;filter:drop-shadow(0 8px 24px rgba(37,99,235,.45))}
+.brand span{font-size:46px;font-weight:500;letter-spacing:-.5px}
+.brand b{font-weight:800}
+h1{margin:0 0 32px;font-size:40px;line-height:1.18;font-weight:700;letter-spacing:-.6px;text-shadow:0 4px 30px rgba(0,0,0,.25)}
+h1 em{font-style:normal;color:#c4b5fd}
+.pills{display:flex;flex-wrap:wrap;gap:10px}
+.pill{display:inline-flex;align-items:center;gap:8px;padding:9px 16px;border-radius:999px;font-size:19px;font-weight:600;
+ background:linear-gradient(135deg,rgba(255,255,255,.2),rgba(255,255,255,.07));border:1px solid rgba(255,255,255,.32);
+ box-shadow:inset 0 1px 0 rgba(255,255,255,.45),0 8px 24px rgba(0,0,0,.18)}
+.pill i{width:9px;height:9px;border-radius:50%;background:#4ade80;box-shadow:0 0 10px #4ade80}
+.url{margin-top:30px;font-size:18px;color:rgba(255,255,255,.72)}
+.frame{position:absolute;left:622px;top:50%;transform:translateY(-50%);width:630px;height:406px;border-radius:22px;padding:10px;
+ background:linear-gradient(135deg,rgba(255,255,255,.26),rgba(255,255,255,.08));border:1px solid rgba(255,255,255,.4);
+ box-shadow:inset 0 1px 0 rgba(255,255,255,.6),0 30px 80px rgba(0,0,0,.45)}
+.shot{width:100%;height:100%;border-radius:14px;overflow:hidden;position:relative;background:#120a24}
+.shot img{display:block;width:100%;height:100%;object-fit:cover;object-position:top left}
+</style></head><body>
+<div class="left">
+  <div class="brand"><img src="logo-art-256.png" style="border-radius:22px" alt=""><span>Dash<b>Agent</b></span></div>
+  <h1>Drop a CSV. An AI agent builds your dashboard — <em>100% in your browser.</em></h1>
+  <div class="pills"><span class="pill"><i></i>No server</span><span class="pill"><i></i>No signup</span><span class="pill"><i></i>Data never leaves your machine</span></div>
+</div>
+<div class="frame"><div class="shot"><img src="../screenshots/02-dashboard-and-chat.png" alt=""></div></div>
+</body></html>

@@ -1,0 +1,80 @@
+# --- Secrets: never commit ---
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# --- SQLite / local databases: never commit ---
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+db.sqlite3
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+.python-version
+
+# --- Python build & cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+wheels/
+pip-wheel-metadata/
+*.egg
+
+# --- Tests, coverage & linters ---
+tests/
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Logs & temp files ---
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Workspace scratch ---
+# .github is local-only, except the Pages deploy workflow.
+.github/*
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/pages.yml
+scripts/
+requirements.txt
+CONTRIBUTING.md
+.superpowers/
+test-results/
+
+# --- Internal planning notes (kept locally, not published) ---
+docs/superpowers/

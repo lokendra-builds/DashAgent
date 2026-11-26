@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lokendra-builds.github.io/dashagent/sitemap.xml

@@ -1,0 +1,1401 @@
+order_id,order_date,region,category,product,units,revenue
+ORD-10149,2025-01-01,West,Furniture,Desk,4,1262.27
+ORD-10277,2025-01-01,East,Electronics,Monitor,2,500.49
+ORD-11035,2025-01-01,South,Office,Notebook,1,5.81
+ORD-11040,2025-01-01,East,Electronics,Headphones,5,603.2
+ORD-10601,2025-01-02,West,Electronics,Headphones,4,491.32
+ORD-10660,2025-01-03,South,Electronics,Monitor,4,952.02
+ORD-10004,2025-01-04,South,Office,Pen pack,2,18.78
+ORD-10778,2025-01-04,South,Furniture,Desk,3,960.96
+ORD-10797,2025-01-04,West,Office,Notebook,1,6.02
+ORD-10996,2025-01-04,North,Office,Pen pack,2,17.86
+ORD-11368,2025-01-04,South,Furniture,Chair,3,507.55
+ORD-10179,2025-01-05,North,Office,Stapler,4,58.47
+ORD-10361,2025-01-05,East,Office,Stapler,3,41.22
+ORD-10636,2025-01-05,South,Furniture,Lamp,3,141.08
+ORD-10839,2025-01-05,South,Furniture,Chair,6,993.78
+ORD-10872,2025-01-05,South,Electronics,Laptop,4,3659.54
+ORD-11273,2025-01-05,West,Furniture,Chair,4,657.75
+ORD-10369,2025-01-06,East,Office,Pen pack,4,36.14
+ORD-10769,2025-01-06,South,Office,Stapler,3,41.62
+ORD-11372,2025-01-06,North,Electronics,Headphones,1,110.96
+ORD-11173,2025-01-07,East,Furniture,Chair,2,340.64
+ORD-11337,2025-01-07,South,Office,Pen pack,3,26.16
+ORD-10040,2025-01-08,North,Electronics,Laptop,2,1956.43
+ORD-10164,2025-01-08,South,Furniture,Lamp,3,137.33
+ORD-10659,2025-01-08,East,Office,Notebook,4,21.66
+ORD-10881,2025-01-08,South,Furniture,Lamp,3,123.92
+ORD-11340,2025-01-08,South,Electronics,Laptop,2,1717.64
+ORD-10120,2025-01-09,North,Furniture,Desk,2,679.72
+ORD-10417,2025-01-09,East,Office,Pen pack,5,40.62
+ORD-10427,2025-01-09,South,Office,Notebook,2,12.15
+ORD-10031,2025-01-11,South,Office,Notebook,3,16.22
+ORD-11351,2025-01-11,South,Furniture,Lamp,2,83.59
+ORD-10665,2025-01-12,South,Electronics,Headphones,6,724.8
+ORD-10851,2025-01-12,South,Office,Notebook,3,17.99
+ORD-10190,2025-01-13,East,Office,Notebook,2,11.64
+ORD-10542,2025-01-13,South,Office,Pen pack,1,8.11
+ORD-10930,2025-01-13,East,Electronics,Headphones,1,115.96
+ORD-11007,2025-01-13,West,Office,Notebook,1,5.57
+ORD-10644,2025-01-14,West,Furniture,Chair,8,1455.13
+ORD-10170,2025-01-15,North,Furniture,Desk,3,940.27
+ORD-10997,2025-01-15,South,Electronics,Headphones,5,615.04
+ORD-11018,2025-01-15,West,Office,Notebook,6,34.7
+ORD-11260,2025-01-15,East,Furniture,Lamp,1,40.79
+ORD-11279,2025-01-15,North,Office,Stapler,1,13.91
+ORD-11315,2025-01-15,North,Furniture,Lamp,3,134.86
+ORD-10103,2025-01-16,South,Electronics,Laptop,1,943.54
+ORD-10482,2025-01-16,South,Furniture,Desk,3,943.74
+ORD-10748,2025-01-16,West,Electronics,Monitor,6,1590.44
+ORD-11224,2025-01-16,North,Office,Notebook,5,27.12
+ORD-10896,2025-01-17,South,Electronics,Headphones,3,358.65
+ORD-10982,2025-01-17,East,Furniture,Desk,7,2205.63
+ORD-11140,2025-01-17,East,Furniture,Chair,3,532.59
+ORD-10594,2025-01-18,East,Electronics,Headphones,4,456.61
+ORD-11086,2025-01-18,North,Electronics,Monitor,3,704.2
+ORD-11347,2025-01-19,West,Furniture,Chair,3,527.58
+ORD-10619,2025-01-20,South,Furniture,Chair,4,663.54
+ORD-10666,2025-01-20,West,Office,Pen pack,6,53.41
+ORD-11088,2025-01-20,West,Furniture,Desk,3,1005.92
+ORD-10062,2025-01-21,East,Electronics,Monitor,5,1322.12
+ORD-10334,2025-01-21,North,Electronics,Laptop,3,2787.01
+ORD-10774,2025-01-21,East,Electronics,Monitor,8,1957.33
+ORD-11326,2025-01-21,East,Furniture,Lamp,5,207.73
+ORD-10285,2025-01-22,East,Furniture,Lamp,5,215.94
+ORD-10293,2025-01-22,East,Office,Pen pack,6,50.82
+ORD-10964,2025-01-22,South,Office,Stapler,1,14.75
+ORD-10058,2025-01-23,North,Furniture,Desk,3,1031.41
+ORD-10391,2025-01-23,West,Furniture,Desk,1,333.53
+ORD-10533,2025-01-23,North,Electronics,Laptop,2,1844.45
+ORD-10782,2025-01-23,South,Office,Stapler,4,54.35
+ORD-11118,2025-01-23,North,Office,Pen pack,3,25.65
+ORD-11202,2025-01-23,North,Furniture,Lamp,5,206.68
+ORD-10082,2025-01-24,South,Furniture,Lamp,4,173.19
+ORD-10192,2025-01-24,North,Furniture,Chair,5,882.57
+ORD-10408,2025-01-24,South,Office,Notebook,5,29.63
+ORD-10500,2025-01-24,North,Office,Pen pack,9,74.82
+ORD-10679,2025-01-24,North,Electronics,Monitor,5,1296.2
+ORD-11236,2025-01-24,South,Furniture,Chair,4,730.64
+ORD-11330,2025-01-24,North,Office,Pen pack,2,18.14
+ORD-10287,2025-01-25,East,Furniture,Desk,3,1040.3
+ORD-10667,2025-01-25,North,Office,Notebook,1,5.44
+ORD-11157,2025-01-25,South,Furniture,Chair,4,697.24
+ORD-11246,2025-01-25,East,Office,Pen pack,6,56.36
+ORD-11358,2025-01-25,North,Furniture,Chair,3,553.06
+ORD-10199,2025-01-26,East,Electronics,Laptop,8,7737.16
+ORD-10925,2025-01-26,West,Furniture,Desk,8,2610.6
+ORD-10057,2025-01-27,North,Office,Pen pack,2,18.44
+ORD-10129,2025-01-27,East,Furniture,Desk,8,2783.42
+ORD-10217,2025-01-27,East,Office,Pen pack,1,8.57
+ORD-10225,2025-01-27,South,Electronics,Monitor,7,1651.59
+ORD-10330,2025-01-27,South,Furniture,Lamp,3,130.62
+ORD-10036,2025-01-28,North,Electronics,Headphones,4,439.87
+ORD-10127,2025-01-28,East,Office,Notebook,4,23.9
+ORD-10516,2025-01-28,South,Furniture,Chair,5,890.18
+ORD-10938,2025-01-28,West,Office,Notebook,10,59.97
+ORD-11271,2025-01-28,South,Furniture,Lamp,4,172.39
+ORD-10229,2025-01-29,North,Electronics,Headphones,6,750.1
+ORD-10392,2025-01-29,South,Office,Pen pack,4,35.51
+ORD-10531,2025-01-29,West,Office,Notebook,3,17.19
+ORD-10573,2025-01-29,South,Office,Pen pack,5,42.89
+ORD-10578,2025-01-29,South,Office,Notebook,5,28.49
+ORD-11000,2025-01-29,East,Office,Stapler,3,40.63
+ORD-11092,2025-01-29,North,Furniture,Lamp,5,230.89
+ORD-11142,2025-01-29,East,Electronics,Laptop,3,2582.47
+ORD-11172,2025-01-29,East,Furniture,Desk,4,1302.77
+ORD-10044,2025-01-30,North,Office,Pen pack,7,61.45
+ORD-10294,2025-01-30,North,Office,Stapler,2,30.37
+ORD-10041,2025-01-31,South,Furniture,Desk,5,1781.25
+ORD-10320,2025-01-31,South,Furniture,Chair,2,356.76
+ORD-10416,2025-01-31,West,Office,Pen pack,10,86.55
+ORD-10937,2025-01-31,East,Electronics,Monitor,3,774.3
+ORD-11383,2025-01-31,East,Furniture,Lamp,1,43.93
+ORD-10207,2025-02-01,West,Furniture,Chair,5,902.62
+ORD-10344,2025-02-01,South,Office,Notebook,1,5.83
+ORD-10370,2025-02-01,North,Furniture,Chair,6,1121.54
+ORD-10900,2025-02-01,East,Office,Stapler,8,114.64
+ORD-11034,2025-02-01,North,Electronics,Laptop,8,7565.19
+ORD-11373,2025-02-01,West,Electronics,Monitor,14,3779.7
+ORD-10471,2025-02-02,North,Office,Notebook,3,17.19
+ORD-10530,2025-02-02,East,Office,Stapler,3,43.95
+ORD-11097,2025-02-02,East,Furniture,Lamp,1,47.01
+ORD-11104,2025-02-02,North,Electronics,Headphones,2,218.27
+ORD-11256,2025-02-02,South,Furniture,Chair,5,844.62
+ORD-10251,2025-02-03,East,Electronics,Monitor,2,520.91
+ORD-10561,2025-02-03,South,Office,Pen pack,7,64.35
+ORD-11029,2025-02-03,East,Electronics,Monitor,7,1799.33
+ORD-11149,2025-02-03,South,Furniture,Desk,6,1860.53
+ORD-10614,2025-02-04,North,Furniture,Lamp,3,127.09
+ORD-10951,2025-02-04,North,Electronics,Headphones,2,246.22
+ORD-10382,2025-02-05,West,Electronics,Headphones,1,121.78
+ORD-10538,2025-02-05,West,Furniture,Chair,4,648.86
+ORD-11090,2025-02-05,South,Electronics,Headphones,7,816.74
+ORD-10743,2025-02-06,South,Furniture,Chair,4,689.91
+ORD-10902,2025-02-06,East,Electronics,Laptop,6,5750.02
+ORD-11319,2025-02-06,West,Electronics,Headphones,4,450.37
+ORD-10244,2025-02-07,East,Furniture,Chair,8,1358.01
+ORD-10402,2025-02-07,South,Office,Stapler,3,41.91
+ORD-10519,2025-02-07,North,Office,Notebook,1,5.41
+ORD-10746,2025-02-07,East,Office,Notebook,4,23.78
+ORD-10414,2025-02-08,North,Electronics,Headphones,7,764.56
+ORD-10431,2025-02-08,East,Office,Stapler,5,78.24
+ORD-10676,2025-02-08,North,Furniture,Lamp,5,212.49
+ORD-10726,2025-02-08,South,Electronics,Monitor,2,501.42
+ORD-10233,2025-02-09,East,Office,Pen pack,5,44.37
+ORD-10505,2025-02-09,South,Office,Notebook,4,23.47
+ORD-11189,2025-02-09,South,Office,Notebook,4,24.35
+ORD-10007,2025-02-10,East,Office,Stapler,6,92.95
+ORD-10009,2025-02-10,South,Electronics,Headphones,4,452.01
+ORD-10420,2025-02-10,East,Furniture,Chair,1,168.1
+ORD-10610,2025-02-10,West,Office,Notebook,1,6.12
+ORD-10048,2025-02-11,West,Office,Stapler,4,56.35
+ORD-10166,2025-02-11,East,Office,Stapler,4,60.47
+ORD-10226,2025-02-11,East,Furniture,Lamp,2,86.59
+ORD-10253,2025-02-11,South,Furniture,Chair,3,564.38
+ORD-10603,2025-02-11,West,Electronics,Headphones,7,854.89
+ORD-11390,2025-02-11,North,Electronics,Headphones,7,812.22
+ORD-10290,2025-02-12,West,Electronics,Headphones,1,117.82
+ORD-10795,2025-02-12,East,Office,Stapler,10,144.19
+ORD-10854,2025-02-12,North,Furniture,Lamp,7,325.34
+ORD-10027,2025-02-13,West,Electronics,Monitor,9,2374.81
+ORD-10463,2025-02-13,North,Office,Notebook,5,28.57
+ORD-11063,2025-02-13,South,Office,Notebook,1,6.15
+ORD-11011,2025-02-14,East,Furniture,Desk,4,1245.03
+ORD-10358,2025-02-15,South,Office,Stapler,3,46.66
+ORD-10508,2025-02-15,North,Electronics,Headphones,3,344.67
+ORD-10657,2025-02-15,South,Office,Pen pack,1,8.96
+ORD-11111,2025-02-15,East,Furniture,Lamp,5,229.75
+ORD-11178,2025-02-15,North,Furniture,Lamp,7,309.76
+ORD-11301,2025-02-15,East,Office,Stapler,6,86.84
+ORD-10813,2025-02-16,East,Office,Stapler,5,77.79
+ORD-10002,2025-02-17,South,Electronics,Monitor,2,523.85
+ORD-10422,2025-02-17,West,Furniture,Chair,6,973.53
+ORD-10562,2025-02-17,East,Electronics,Laptop,7,6906.82
+ORD-10596,2025-02-17,East,Office,Stapler,9,130.23
+ORD-10822,2025-02-17,West,Office,Stapler,7,109.17
+ORD-10916,2025-02-17,West,Office,Notebook,6,36.68
+ORD-10558,2025-02-18,West,Electronics,Laptop,8,7730.29
+ORD-10877,2025-02-18,South,Furniture,Chair,11,1984.39
+ORD-10918,2025-02-18,East,Electronics,Monitor,7,1850.97
+ORD-10600,2025-02-19,North,Furniture,Lamp,2,81.74
+ORD-11103,2025-02-19,West,Office,Notebook,1,6.15
+ORD-11192,2025-02-19,East,Electronics,Laptop,7,6761.86
+ORD-10134,2025-02-20,South,Office,Notebook,4,22.46
+ORD-10271,2025-02-20,East,Electronics,Laptop,6,5162.75
+ORD-10841,2025-02-20,South,Electronics,Laptop,8,7767.75
+ORD-11072,2025-02-20,East,Office,Stapler,2,30.37
+ORD-11075,2025-02-20,North,Office,Pen pack,1,8.57
+ORD-11389,2025-02-20,South,Office,Pen pack,2,18.44
+ORD-10163,2025-02-21,West,Electronics,Monitor,14,3773.1
+ORD-10355,2025-02-21,South,Electronics,Monitor,5,1360.69
+ORD-10598,2025-02-21,East,Electronics,Laptop,2,1973.79
+ORD-10617,2025-02-21,North,Office,Notebook,8,48.86
+ORD-11277,2025-02-21,South,Office,Pen pack,3,26.35
+ORD-10871,2025-02-22,East,Furniture,Desk,7,2397.32
+ORD-11364,2025-02-22,North,Office,Notebook,6,33.51
+ORD-10055,2025-02-24,South,Furniture,Chair,4,713.32
+ORD-10085,2025-02-24,West,Electronics,Laptop,1,969.59
+ORD-10111,2025-02-24,West,Furniture,Lamp,14,651.25
+ORD-10236,2025-02-24,South,Furniture,Lamp,3,139.13
+ORD-10816,2025-02-24,North,Office,Pen pack,4,35.17
+ORD-10885,2025-02-24,South,Furniture,Desk,5,1610.77
+ORD-10066,2025-02-25,West,Electronics,Headphones,9,1046.57
+ORD-10353,2025-02-25,South,Electronics,Laptop,7,6653.16
+ORD-10551,2025-02-25,South,Electronics,Laptop,4,3676.25
+ORD-10591,2025-02-25,North,Electronics,Headphones,9,1042.99
+ORD-10675,2025-02-26,West,Electronics,Laptop,8,7728.66
+ORD-10934,2025-02-26,East,Furniture,Chair,8,1412.21
+ORD-11281,2025-02-26,South,Electronics,Monitor,6,1570.97
+ORD-11363,2025-02-26,North,Office,Stapler,4,61.04
+ORD-10026,2025-02-27,East,Furniture,Desk,12,4251.53
+ORD-11200,2025-02-27,North,Electronics,Headphones,5,549.7
+ORD-11268,2025-02-27,East,Office,Pen pack,4,33.9
+ORD-11309,2025-02-27,South,Electronics,Headphones,4,438.74
+ORD-10021,2025-02-28,East,Office,Pen pack,5,41.25
+ORD-10106,2025-02-28,South,Furniture,Desk,1,335.37
+ORD-10484,2025-02-28,East,Office,Pen pack,1,9.13
+ORD-11240,2025-02-28,East,Electronics,Laptop,5,4743.66
+ORD-10377,2025-03-01,South,Office,Stapler,6,87.6
+ORD-10668,2025-03-01,West,Furniture,Chair,10,1809.5
+ORD-11066,2025-03-01,North,Electronics,Headphones,3,364.29
+ORD-11196,2025-03-01,South,Electronics,Headphones,2,221.0
+ORD-11343,2025-03-01,South,Electronics,Monitor,3,784.2
+ORD-10404,2025-03-02,West,Electronics,Monitor,5,1348.45
+ORD-10529,2025-03-02,North,Furniture,Chair,9,1524.09
+ORD-10780,2025-03-02,South,Furniture,Chair,4,699.71
+ORD-11099,2025-03-02,South,Office,Stapler,6,88.06
+ORD-11115,2025-03-02,North,Office,Pen pack,6,55.59
+ORD-11198,2025-03-02,South,Electronics,Monitor,5,1194.44
+ORD-11229,2025-03-02,West,Furniture,Chair,8,1480.22
+ORD-10109,2025-03-03,North,Furniture,Lamp,1,43.39
+ORD-10920,2025-03-03,South,Office,Stapler,7,104.48
+ORD-11078,2025-03-03,North,Office,Notebook,2,11.97
+ORD-11108,2025-03-03,East,Electronics,Headphones,8,887.76
+ORD-11264,2025-03-03,East,Furniture,Desk,6,2082.85
+ORD-10198,2025-03-04,West,Electronics,Monitor,9,2446.85
+ORD-10876,2025-03-04,South,Furniture,Chair,4,669.51
+ORD-10879,2025-03-04,East,Furniture,Lamp,1,42.52
+ORD-11314,2025-03-04,West,Furniture,Lamp,10,426.84
+ORD-11367,2025-03-04,South,Furniture,Chair,6,1096.61
+ORD-10630,2025-03-05,North,Electronics,Headphones,2,250.58
+ORD-10705,2025-03-05,West,Furniture,Lamp,10,444.78
+ORD-11384,2025-03-05,North,Office,Notebook,2,10.81
+ORD-10204,2025-03-06,West,Office,Notebook,8,48.8
+ORD-10028,2025-03-07,West,Office,Notebook,7,40.47
+ORD-10061,2025-03-07,North,Furniture,Chair,2,372.55
+ORD-10098,2025-03-07,North,Furniture,Lamp,5,224.19
+ORD-10332,2025-03-07,North,Furniture,Chair,6,1124.11
+ORD-10386,2025-03-07,South,Electronics,Laptop,7,6702.3
+ORD-10830,2025-03-07,North,Office,Pen pack,2,17.56
+ORD-10215,2025-03-08,North,Office,Stapler,6,88.58
+ORD-10231,2025-03-08,West,Office,Stapler,11,154.2
+ORD-10322,2025-03-08,East,Office,Stapler,9,123.98
+ORD-10499,2025-03-08,West,Furniture,Lamp,11,502.1
+ORD-11199,2025-03-08,North,Furniture,Lamp,7,319.55
+ORD-10034,2025-03-09,West,Electronics,Headphones,9,987.7
+ORD-10184,2025-03-09,East,Office,Stapler,12,168.94
+ORD-10502,2025-03-09,East,Electronics,Headphones,9,985.35
+ORD-10282,2025-03-10,North,Furniture,Lamp,3,138.32
+ORD-10399,2025-03-10,West,Electronics,Headphones,4,446.64
+ORD-10509,2025-03-10,South,Electronics,Monitor,6,1535.81
+ORD-10887,2025-03-10,East,Electronics,Headphones,12,1448.63
+ORD-11283,2025-03-10,East,Electronics,Monitor,11,2828.41
+ORD-10099,2025-03-11,West,Electronics,Laptop,8,7136.58
+ORD-10284,2025-03-11,North,Office,Pen pack,8,73.34
+ORD-10447,2025-03-11,East,Furniture,Lamp,1,46.89
+ORD-11127,2025-03-11,North,Furniture,Chair,9,1559.63
+ORD-10018,2025-03-12,West,Electronics,Laptop,10,8777.97
+ORD-10230,2025-03-12,East,Furniture,Chair,10,1736.28
+ORD-10258,2025-03-12,South,Electronics,Headphones,5,609.38
+ORD-10266,2025-03-12,East,Electronics,Monitor,3,811.31
+ORD-10367,2025-03-13,West,Furniture,Desk,12,3676.18
+ORD-10512,2025-03-13,North,Office,Stapler,1,14.21
+ORD-10513,2025-03-13,South,Furniture,Lamp,9,369.62
+ORD-11096,2025-03-13,North,Electronics,Laptop,5,4623.58
+ORD-11263,2025-03-13,South,Electronics,Monitor,1,262.64
+ORD-10139,2025-03-14,North,Electronics,Laptop,5,4839.75
+ORD-10545,2025-03-14,East,Electronics,Laptop,6,5917.69
+ORD-10936,2025-03-14,North,Furniture,Lamp,9,380.02
+ORD-10222,2025-03-15,West,Electronics,Laptop,8,6944.6
+ORD-10333,2025-03-15,South,Office,Stapler,2,28.81
+ORD-10771,2025-03-16,West,Furniture,Desk,18,5708.88
+ORD-10805,2025-03-16,West,Office,Pen pack,8,65.75
+ORD-10931,2025-03-16,West,Electronics,Laptop,1,883.46
+ORD-10952,2025-03-16,North,Furniture,Chair,9,1639.18
+ORD-11163,2025-03-16,West,Furniture,Desk,9,2755.97
+ORD-11269,2025-03-16,East,Furniture,Lamp,7,300.88
+ORD-10201,2025-03-17,North,Furniture,Desk,3,1069.09
+ORD-10555,2025-03-17,North,Office,Notebook,5,31.36
+ORD-10933,2025-03-17,East,Electronics,Headphones,8,963.91
+ORD-10981,2025-03-17,North,Office,Pen pack,4,32.6
+ORD-11377,2025-03-17,West,Furniture,Lamp,1,41.88
+ORD-10335,2025-03-18,South,Furniture,Lamp,1,42.65
+ORD-10565,2025-03-18,North,Office,Stapler,5,74.44
+ORD-10779,2025-03-18,South,Electronics,Headphones,8,950.69
+ORD-11117,2025-03-18,West,Furniture,Desk,6,1884.89
+ORD-10092,2025-03-19,South,Furniture,Lamp,6,259.8
+ORD-10247,2025-03-19,North,Furniture,Desk,4,1389.44
+ORD-10415,2025-03-19,North,Electronics,Monitor,9,2266.06
+ORD-11151,2025-03-19,South,Office,Stapler,6,81.31
+ORD-11374,2025-03-19,North,Office,Stapler,8,125.51
+ORD-10154,2025-03-20,West,Office,Pen pack,5,46.13
+ORD-10436,2025-03-20,West,Furniture,Chair,9,1532.91
+ORD-10388,2025-03-21,East,Electronics,Monitor,7,1818.23
+ORD-10523,2025-03-21,East,Furniture,Lamp,11,492.6
+ORD-10224,2025-03-22,East,Furniture,Lamp,3,133.57
+ORD-10356,2025-03-22,West,Office,Pen pack,6,56.41
+ORD-10691,2025-03-22,West,Furniture,Desk,5,1549.09
+ORD-10811,2025-03-22,North,Furniture,Chair,3,514.6
+ORD-10943,2025-03-22,North,Furniture,Lamp,5,214.38
+ORD-10295,2025-03-23,North,Electronics,Monitor,8,2083.56
+ORD-10684,2025-03-23,North,Furniture,Lamp,2,86.92
+ORD-10732,2025-03-23,West,Office,Stapler,5,77.44
+ORD-10718,2025-03-24,East,Office,Pen pack,8,73.27
+ORD-11355,2025-03-24,South,Furniture,Lamp,1,45.56
+ORD-10971,2025-03-25,North,Electronics,Laptop,11,10512.01
+ORD-11307,2025-03-25,West,Furniture,Desk,10,3567.55
+ORD-10312,2025-03-26,South,Furniture,Lamp,6,264.02
+ORD-10702,2025-03-26,West,Electronics,Monitor,9,2195.26
+ORD-10612,2025-03-27,South,Electronics,Laptop,6,5714.07
+ORD-10683,2025-03-27,North,Electronics,Monitor,1,262.33
+ORD-10847,2025-03-27,East,Furniture,Lamp,13,580.23
+ORD-11158,2025-03-27,South,Office,Stapler,3,46.17
+ORD-10080,2025-03-28,North,Furniture,Lamp,4,164.52
+ORD-10315,2025-03-28,South,Electronics,Monitor,8,2066.84
+ORD-10172,2025-03-29,South,Electronics,Monitor,8,1947.14
+ORD-10423,2025-03-29,North,Furniture,Chair,6,1076.47
+ORD-10974,2025-03-29,East,Office,Stapler,9,124.43
+ORD-11129,2025-03-29,South,Electronics,Headphones,9,1110.83
+ORD-11208,2025-03-29,North,Office,Notebook,13,80.16
+ORD-10574,2025-03-30,South,Electronics,Monitor,3,743.98
+ORD-10708,2025-03-30,South,Electronics,Headphones,3,341.38
+ORD-10917,2025-03-30,West,Office,Stapler,2,29.59
+ORD-10077,2025-03-31,East,Furniture,Lamp,13,599.66
+ORD-10144,2025-03-31,West,Office,Stapler,6,94.46
+ORD-10359,2025-03-31,West,Electronics,Laptop,1,997.1
+ORD-10366,2025-03-31,West,Furniture,Lamp,7,288.01
+ORD-10395,2025-03-31,West,Office,Pen pack,16,130.61
+ORD-10763,2025-03-31,North,Furniture,Desk,9,3163.11
+ORD-10808,2025-03-31,West,Furniture,Desk,12,4163.99
+ORD-11006,2025-03-31,North,Furniture,Desk,8,2629.06
+ORD-11113,2025-03-31,North,Office,Notebook,3,18.14
+ORD-10064,2025-04-01,West,Electronics,Laptop,9,8888.77
+ORD-10655,2025-04-01,East,Office,Notebook,9,48.64
+ORD-10537,2025-04-02,South,Office,Notebook,8,50.07
+ORD-10714,2025-04-02,East,Office,Notebook,8,47.4
+ORD-11019,2025-04-02,West,Office,Pen pack,11,93.74
+ORD-11150,2025-04-02,East,Electronics,Laptop,9,7884.75
+ORD-11225,2025-04-02,West,Office,Stapler,4,56.94
+ORD-11300,2025-04-02,East,Electronics,Monitor,4,1009.02
+ORD-10257,2025-04-03,South,Furniture,Chair,6,1003.1
+ORD-10451,2025-04-03,North,Office,Pen pack,6,56.24
+ORD-10784,2025-04-03,West,Office,Stapler,3,45.41
+ORD-10875,2025-04-03,South,Furniture,Chair,8,1474.9
+ORD-11074,2025-04-03,East,Office,Notebook,4,21.64
+ORD-11251,2025-04-03,North,Office,Stapler,4,58.65
+ORD-10038,2025-04-04,East,Furniture,Desk,9,3124.88
+ORD-10787,2025-04-04,East,Electronics,Monitor,3,782.21
+ORD-10397,2025-04-05,West,Electronics,Laptop,5,4489.27
+ORD-10892,2025-04-05,North,Office,Pen pack,7,63.51
+ORD-10954,2025-04-05,North,Office,Stapler,6,84.12
+ORD-10957,2025-04-05,West,Furniture,Chair,5,828.56
+ORD-11079,2025-04-05,North,Office,Notebook,11,61.91
+ORD-10046,2025-04-06,North,Office,Notebook,5,27.54
+ORD-10300,2025-04-06,West,Office,Pen pack,12,109.75
+ORD-11252,2025-04-06,West,Electronics,Monitor,18,4540.04
+ORD-10664,2025-04-07,South,Furniture,Desk,6,1876.15
+ORD-10796,2025-04-07,North,Office,Stapler,8,110.12
+ORD-10870,2025-04-07,East,Electronics,Laptop,13,11459.45
+ORD-11153,2025-04-07,North,Electronics,Laptop,10,9739.8
+ORD-10156,2025-04-08,South,Electronics,Headphones,6,684.71
+ORD-10325,2025-04-08,South,Furniture,Lamp,1,43.65
+ORD-10704,2025-04-08,East,Electronics,Headphones,14,1681.38
+ORD-11290,2025-04-08,East,Furniture,Lamp,6,277.68
+ORD-10037,2025-04-09,South,Office,Pen pack,1,8.29
+ORD-10123,2025-04-09,East,Electronics,Monitor,9,2294.09
+ORD-10958,2025-04-09,South,Electronics,Headphones,5,564.29
+ORD-11258,2025-04-09,North,Electronics,Headphones,2,231.7
+ORD-10264,2025-04-10,East,Office,Stapler,13,183.74
+ORD-10480,2025-04-10,West,Office,Stapler,7,102.24
+ORD-10725,2025-04-10,East,Furniture,Desk,5,1780.78
+ORD-10992,2025-04-10,North,Electronics,Laptop,1,960.09
+ORD-10472,2025-04-11,West,Electronics,Headphones,7,877.71
+ORD-10703,2025-04-11,South,Electronics,Headphones,2,223.76
+ORD-10764,2025-04-11,East,Office,Stapler,9,121.88
+ORD-10927,2025-04-11,South,Electronics,Laptop,4,3571.77
+ORD-10240,2025-04-12,South,Office,Notebook,6,33.36
+ORD-11020,2025-04-12,North,Furniture,Lamp,11,513.79
+ORD-11379,2025-04-12,East,Electronics,Laptop,3,2794.75
+ORD-10306,2025-04-13,South,Electronics,Headphones,9,1031.76
+ORD-10448,2025-04-13,West,Furniture,Desk,24,7700.73
+ORD-10539,2025-04-13,East,Office,Pen pack,13,118.28
+ORD-10628,2025-04-13,North,Electronics,Laptop,1,955.41
+ORD-10653,2025-04-13,East,Furniture,Lamp,13,604.85
+ORD-11013,2025-04-13,South,Furniture,Chair,1,176.37
+ORD-11084,2025-04-13,West,Electronics,Monitor,7,1847.86
+ORD-11123,2025-04-13,West,Electronics,Laptop,14,12909.63
+ORD-11250,2025-04-13,West,Furniture,Chair,6,1095.68
+ORD-10613,2025-04-14,South,Office,Pen pack,6,51.19
+ORD-11105,2025-04-14,West,Furniture,Lamp,6,270.48
+ORD-11227,2025-04-14,East,Office,Pen pack,1,8.76
+ORD-10343,2025-04-15,West,Office,Stapler,13,202.43
+ORD-10719,2025-04-15,North,Furniture,Chair,8,1318.14
+ORD-10935,2025-04-15,East,Office,Pen pack,9,80.47
+ORD-10960,2025-04-15,North,Electronics,Headphones,10,1138.48
+ORD-10200,2025-04-16,North,Office,Notebook,1,5.61
+ORD-10489,2025-04-16,South,Electronics,Monitor,4,990.73
+ORD-10669,2025-04-16,North,Furniture,Chair,9,1618.78
+ORD-10899,2025-04-17,West,Electronics,Headphones,9,1101.77
+ORD-10993,2025-04-17,West,Furniture,Desk,13,4199.3
+ORD-11141,2025-04-17,North,Office,Pen pack,2,18.19
+ORD-10452,2025-04-18,West,Furniture,Lamp,20,917.33
+ORD-10781,2025-04-18,South,Office,Pen pack,2,16.26
+ORD-10029,2025-04-19,South,Office,Pen pack,12,103.66
+ORD-10633,2025-04-20,South,Office,Notebook,7,42.07
+ORD-11107,2025-04-20,North,Office,Notebook,6,34.21
+ORD-10227,2025-04-21,North,Furniture,Chair,10,1649.94
+ORD-10327,2025-04-21,East,Electronics,Laptop,7,6265.65
+ORD-10520,2025-04-21,North,Electronics,Headphones,2,234.04
+ORD-10196,2025-04-22,West,Furniture,Desk,12,4091.64
+ORD-11085,2025-04-22,North,Furniture,Lamp,7,295.74
+ORD-10013,2025-04-23,East,Electronics,Laptop,19,18470.03
+ORD-10731,2025-04-23,South,Office,Notebook,10,61.08
+ORD-11168,2025-04-23,West,Furniture,Desk,7,2211.67
+ORD-10559,2025-04-24,South,Electronics,Headphones,7,802.9
+ORD-10924,2025-04-24,West,Furniture,Chair,14,2447.87
+ORD-10153,2025-04-26,North,Furniture,Desk,8,2712.27
+ORD-10348,2025-04-26,East,Furniture,Lamp,10,426.4
+ORD-10623,2025-04-27,South,Furniture,Lamp,2,86.98
+ORD-10837,2025-04-28,North,Office,Pen pack,9,82.67
+ORD-10955,2025-04-29,South,Office,Notebook,10,57.23
+ORD-10081,2025-05-01,East,Electronics,Laptop,3,2627.99
+ORD-10825,2025-05-01,South,Furniture,Desk,5,1588.45
+ORD-11274,2025-05-01,East,Electronics,Laptop,14,13724.54
+ORD-10033,2025-05-02,East,Office,Pen pack,4,33.56
+ORD-10203,2025-05-02,East,Electronics,Laptop,8,7142.52
+ORD-10104,2025-05-03,South,Furniture,Lamp,12,523.67
+ORD-10476,2025-05-03,East,Electronics,Laptop,7,6372.49
+ORD-11320,2025-05-03,West,Electronics,Laptop,14,13525.09
+ORD-10119,2025-05-04,West,Office,Stapler,16,233.67
+ORD-10115,2025-05-05,West,Office,Stapler,9,135.03
+ORD-10441,2025-05-05,South,Office,Pen pack,7,58.3
+ORD-10467,2025-05-05,South,Office,Notebook,2,11.4
+ORD-10540,2025-05-05,West,Furniture,Lamp,32,1463.59
+ORD-10882,2025-05-05,North,Electronics,Monitor,9,2315.27
+ORD-11109,2025-05-05,North,Electronics,Laptop,11,10644.97
+ORD-10012,2025-05-06,South,Furniture,Chair,5,902.9
+ORD-10319,2025-05-06,West,Furniture,Chair,9,1475.73
+ORD-10525,2025-05-06,North,Furniture,Desk,11,3620.34
+ORD-10980,2025-05-06,East,Office,Stapler,1,13.61
+ORD-10444,2025-05-07,West,Office,Stapler,13,184.41
+ORD-11131,2025-05-07,South,Furniture,Chair,4,710.58
+ORD-11388,2025-05-07,North,Furniture,Lamp,1,42.94
+ORD-10826,2025-05-08,East,Electronics,Laptop,10,9911.99
+ORD-10904,2025-05-08,South,Office,Stapler,1,15.22
+ORD-10723,2025-05-09,South,Office,Pen pack,10,92.2
+ORD-10454,2025-05-10,South,Office,Pen pack,6,56.62
+ORD-10754,2025-05-10,South,Electronics,Laptop,4,3451.0
+ORD-11331,2025-05-10,East,Furniture,Lamp,12,492.62
+ORD-10532,2025-05-11,North,Office,Stapler,7,102.51
+ORD-10728,2025-05-11,North,Furniture,Chair,7,1163.05
+ORD-10910,2025-05-11,East,Furniture,Chair,9,1466.42
+ORD-11267,2025-05-11,North,Furniture,Lamp,17,731.5
+ORD-10105,2025-05-12,East,Electronics,Monitor,17,4380.61
+ORD-10273,2025-05-12,South,Electronics,Monitor,6,1624.01
+ORD-10817,2025-05-12,East,Office,Pen pack,11,103.45
+ORD-10843,2025-05-12,East,Electronics,Headphones,13,1432.37
+ORD-10898,2025-05-12,North,Furniture,Desk,7,2474.09
+ORD-11060,2025-05-12,North,Office,Notebook,1,6.07
+ORD-10089,2025-05-13,South,Office,Pen pack,3,27.4
+ORD-10460,2025-05-13,South,Office,Stapler,2,29.59
+ORD-10632,2025-05-13,North,Furniture,Desk,6,2011.11
+ORD-10648,2025-05-13,South,Office,Pen pack,5,42.01
+ORD-10990,2025-05-13,East,Electronics,Monitor,4,1034.57
+ORD-11023,2025-05-13,East,Furniture,Desk,8,2733.44
+ORD-11185,2025-05-13,West,Office,Notebook,17,97.51
+ORD-10070,2025-05-14,South,Office,Pen pack,10,85.67
+ORD-10687,2025-05-14,East,Electronics,Monitor,12,3214.38
+ORD-11228,2025-05-14,East,Office,Stapler,17,267.39
+ORD-11302,2025-05-14,North,Furniture,Desk,13,4623.35
+ORD-10775,2025-05-15,South,Furniture,Lamp,5,215.27
+ORD-10806,2025-05-15,South,Furniture,Desk,2,706.93
+ORD-10834,2025-05-15,South,Furniture,Chair,9,1502.69
+ORD-11304,2025-05-15,East,Office,Pen pack,6,54.57
+ORD-10042,2025-05-16,West,Furniture,Chair,9,1648.36
+ORD-10052,2025-05-16,South,Furniture,Desk,9,2826.41
+ORD-10165,2025-05-16,East,Office,Stapler,9,129.55
+ORD-10329,2025-05-16,East,Furniture,Chair,9,1468.99
+ORD-11083,2025-05-16,South,Furniture,Desk,7,2317.54
+ORD-11335,2025-05-16,East,Electronics,Laptop,11,9695.12
+ORD-11146,2025-05-17,West,Furniture,Desk,17,5623.56
+ORD-10401,2025-05-18,West,Office,Stapler,18,267.42
+ORD-10435,2025-05-18,South,Furniture,Lamp,9,412.12
+ORD-10442,2025-05-18,East,Furniture,Chair,11,1863.96
+ORD-10494,2025-05-18,West,Furniture,Chair,22,4020.72
+ORD-10634,2025-05-18,West,Office,Notebook,23,138.32
+ORD-10824,2025-05-18,South,Office,Stapler,8,121.27
+ORD-10868,2025-05-18,West,Electronics,Laptop,14,13240.6
+ORD-10091,2025-05-20,East,Furniture,Lamp,11,451.48
+ORD-10141,2025-05-20,West,Furniture,Desk,13,4374.5
+ORD-10268,2025-05-20,West,Office,Notebook,14,87.07
+ORD-10629,2025-05-21,East,Furniture,Lamp,12,518.15
+ORD-10656,2025-05-21,South,Electronics,Monitor,7,1846.45
+ORD-10710,2025-05-21,West,Furniture,Chair,9,1558.3
+ORD-10492,2025-05-22,South,Office,Notebook,6,36.87
+ORD-11082,2025-05-22,North,Furniture,Chair,7,1314.61
+ORD-11059,2025-05-23,East,Electronics,Monitor,12,2939.49
+ORD-10450,2025-05-24,West,Furniture,Desk,16,5709.77
+ORD-10490,2025-05-24,South,Furniture,Lamp,5,234.64
+ORD-10571,2025-05-24,North,Furniture,Lamp,11,472.04
+ORD-11002,2025-05-24,North,Furniture,Chair,2,354.83
+ORD-11303,2025-05-24,East,Furniture,Chair,8,1491.0
+ORD-10747,2025-05-25,West,Furniture,Chair,22,4052.34
+ORD-10252,2025-05-26,East,Office,Stapler,16,221.41
+ORD-10313,2025-05-26,North,Furniture,Desk,18,6090.98
+ORD-10758,2025-05-26,North,Electronics,Headphones,4,479.48
+ORD-10785,2025-05-26,North,Electronics,Headphones,1,118.92
+ORD-10845,2025-05-26,East,Furniture,Lamp,4,175.78
+ORD-10911,2025-05-26,North,Office,Notebook,8,50.35
+ORD-11076,2025-05-26,East,Electronics,Laptop,11,10876.11
+ORD-11310,2025-05-26,South,Electronics,Monitor,4,1074.98
+ORD-11321,2025-05-26,South,Electronics,Headphones,5,584.18
+ORD-10180,2025-05-27,South,Office,Pen pack,7,59.07
+ORD-10809,2025-05-27,South,Electronics,Monitor,11,2793.03
+ORD-10147,2025-05-28,West,Office,Notebook,8,46.47
+ORD-10151,2025-05-28,West,Office,Pen pack,8,66.11
+ORD-10351,2025-05-28,North,Furniture,Chair,6,1078.27
+ORD-10678,2025-05-29,East,Office,Pen pack,7,64.74
+ORD-11093,2025-05-29,South,Electronics,Monitor,4,942.14
+ORD-11180,2025-05-29,West,Electronics,Headphones,15,1771.01
+ORD-11397,2025-05-29,North,Office,Notebook,6,33.04
+ORD-10701,2025-05-30,East,Office,Notebook,14,76.18
+ORD-11036,2025-05-30,West,Office,Stapler,8,123.79
+ORD-10650,2025-05-31,West,Electronics,Headphones,21,2487.36
+ORD-11039,2025-05-31,North,Furniture,Lamp,5,235.17
+ORD-10183,2025-06-01,East,Office,Pen pack,10,83.37
+ORD-10372,2025-06-01,East,Office,Notebook,10,55.38
+ORD-10024,2025-06-02,South,Electronics,Headphones,7,854.11
+ORD-10662,2025-06-02,East,Furniture,Lamp,3,130.28
+ORD-11262,2025-06-02,North,Furniture,Chair,4,690.86
+ORD-11334,2025-06-02,East,Office,Stapler,2,29.81
+ORD-10443,2025-06-03,West,Electronics,Headphones,16,1800.49
+ORD-10985,2025-06-03,East,Furniture,Chair,4,736.59
+ORD-11037,2025-06-03,East,Furniture,Lamp,10,471.32
+ORD-11182,2025-06-03,West,Electronics,Monitor,10,2409.96
+ORD-11255,2025-06-03,West,Furniture,Chair,16,2963.6
+ORD-10730,2025-06-04,West,Office,Stapler,5,71.08
+ORD-10912,2025-06-04,North,Furniture,Desk,9,3108.13
+ORD-11191,2025-06-04,East,Office,Stapler,3,45.15
+ORD-10078,2025-06-05,East,Electronics,Headphones,11,1251.81
+ORD-10243,2025-06-05,East,Office,Notebook,11,62.88
+ORD-10622,2025-06-05,East,Furniture,Chair,14,2635.6
+ORD-10966,2025-06-05,East,Furniture,Desk,3,926.35
+ORD-11226,2025-06-05,North,Electronics,Monitor,8,2119.33
+ORD-11376,2025-06-05,East,Furniture,Desk,14,4719.83
+ORD-10067,2025-06-06,South,Electronics,Laptop,13,12337.71
+ORD-10292,2025-06-06,West,Office,Stapler,4,57.16
+ORD-10752,2025-06-06,South,Office,Stapler,9,129.86
+ORD-11156,2025-06-06,South,Furniture,Desk,1,345.26
+ORD-11398,2025-06-06,East,Furniture,Chair,1,165.84
+ORD-10326,2025-06-07,West,Electronics,Laptop,20,19855.06
+ORD-10544,2025-06-07,North,Electronics,Monitor,13,3529.32
+ORD-10649,2025-06-07,West,Furniture,Chair,9,1521.32
+ORD-10995,2025-06-07,East,Office,Stapler,13,184.97
+ORD-11004,2025-06-07,East,Office,Notebook,9,55.7
+ORD-11270,2025-06-07,North,Office,Stapler,15,229.46
+ORD-10855,2025-06-08,South,Electronics,Monitor,11,2695.91
+ORD-10860,2025-06-08,East,Furniture,Lamp,10,425.78
+ORD-10878,2025-06-09,East,Electronics,Monitor,8,2043.47
+ORD-11017,2025-06-09,East,Office,Pen pack,3,24.51
+ORD-10071,2025-06-10,West,Office,Stapler,15,206.4
+ORD-10321,2025-06-10,East,Office,Pen pack,10,94.17
+ORD-10473,2025-06-10,West,Office,Pen pack,6,53.35
+ORD-10552,2025-06-10,West,Electronics,Monitor,6,1509.75
+ORD-10014,2025-06-11,West,Furniture,Desk,17,5961.81
+ORD-10015,2025-06-11,South,Office,Pen pack,14,120.88
+ORD-10148,2025-06-11,East,Furniture,Desk,14,4651.42
+ORD-10549,2025-06-11,West,Office,Stapler,12,170.81
+ORD-10760,2025-06-11,West,Electronics,Laptop,8,7651.91
+ORD-10798,2025-06-11,West,Furniture,Desk,18,5740.83
+ORD-10309,2025-06-12,North,Furniture,Chair,1,180.36
+ORD-11160,2025-06-12,South,Furniture,Chair,5,905.46
+ORD-10536,2025-06-13,East,Electronics,Monitor,5,1345.88
+ORD-10922,2025-06-13,South,Furniture,Lamp,6,270.28
+ORD-11016,2025-06-13,East,Electronics,Monitor,12,2888.16
+ORD-10291,2025-06-14,North,Electronics,Headphones,3,359.69
+ORD-10357,2025-06-14,East,Office,Notebook,10,62.17
+ORD-10624,2025-06-14,East,Office,Pen pack,8,69.57
+ORD-10580,2025-06-15,North,Electronics,Laptop,1,965.35
+ORD-10729,2025-06-15,North,Office,Stapler,6,92.38
+ORD-10889,2025-06-15,West,Furniture,Lamp,13,606.75
+ORD-10833,2025-06-16,East,Office,Pen pack,10,83.53
+ORD-10857,2025-06-16,West,Furniture,Lamp,12,561.72
+ORD-10908,2025-06-16,East,Furniture,Lamp,2,89.21
+ORD-11032,2025-06-16,North,Furniture,Desk,7,2355.58
+ORD-11106,2025-06-16,North,Office,Stapler,4,62.68
+ORD-11122,2025-06-16,South,Electronics,Headphones,7,807.99
+ORD-10100,2025-06-17,South,Furniture,Chair,3,508.54
+ORD-11213,2025-06-17,West,Electronics,Headphones,5,565.53
+ORD-11284,2025-06-17,East,Electronics,Laptop,7,6859.2
+ORD-10446,2025-06-18,West,Furniture,Chair,18,3389.47
+ORD-10680,2025-06-18,East,Furniture,Lamp,9,387.14
+ORD-11265,2025-06-18,West,Office,Stapler,16,224.49
+ORD-11313,2025-06-18,North,Furniture,Lamp,13,612.61
+ORD-10093,2025-06-19,West,Furniture,Desk,17,5381.33
+ORD-10364,2025-06-19,South,Office,Pen pack,3,24.36
+ORD-10424,2025-06-19,North,Office,Notebook,9,54.21
+ORD-10762,2025-06-19,West,Furniture,Chair,9,1592.06
+ORD-10874,2025-06-19,North,Electronics,Laptop,8,7459.24
+ORD-10146,2025-06-20,East,Office,Notebook,12,72.29
+ORD-10403,2025-06-20,East,Electronics,Laptop,6,5931.27
+ORD-10362,2025-06-21,East,Furniture,Lamp,4,187.34
+ORD-10543,2025-06-21,North,Office,Pen pack,3,27.74
+ORD-10590,2025-06-21,West,Electronics,Headphones,16,1828.94
+ORD-10919,2025-06-21,East,Furniture,Chair,5,935.58
+ORD-10005,2025-06-22,North,Electronics,Headphones,10,1097.41
+ORD-10116,2025-06-22,North,Furniture,Chair,9,1651.87
+ORD-10365,2025-06-22,East,Office,Stapler,3,45.61
+ORD-10237,2025-06-23,South,Furniture,Desk,7,2169.27
+ORD-10804,2025-06-23,North,Electronics,Headphones,9,986.76
+ORD-11385,2025-06-23,South,Office,Stapler,8,118.18
+ORD-10117,2025-06-24,East,Office,Stapler,13,201.24
+ORD-10698,2025-06-24,East,Electronics,Laptop,12,11572.28
+ORD-10946,2025-06-24,West,Office,Notebook,19,119.03
+ORD-10056,2025-06-25,South,Office,Stapler,9,126.59
+ORD-10248,2025-06-25,North,Office,Stapler,10,144.85
+ORD-10346,2025-06-25,East,Office,Stapler,6,84.57
+ORD-10464,2025-06-25,West,Electronics,Monitor,5,1255.44
+ORD-10681,2025-06-25,South,Electronics,Headphones,12,1382.45
+ORD-11128,2025-06-25,South,Furniture,Lamp,10,469.31
+ORD-10006,2025-06-26,East,Electronics,Monitor,7,1889.79
+ORD-10310,2025-06-26,South,Office,Stapler,1,13.79
+ORD-10396,2025-06-26,West,Office,Pen pack,11,93.55
+ORD-11038,2025-06-26,North,Office,Notebook,4,24.65
+ORD-11065,2025-06-26,North,Office,Pen pack,10,91.2
+ORD-11352,2025-06-26,West,Electronics,Monitor,16,3955.63
+ORD-10528,2025-06-27,East,Electronics,Headphones,15,1692.57
+ORD-10349,2025-06-28,East,Furniture,Desk,17,5699.2
+ORD-10385,2025-06-28,North,Electronics,Monitor,6,1495.98
+ORD-10474,2025-06-28,East,Furniture,Lamp,13,596.75
+ORD-10814,2025-06-28,East,Furniture,Desk,7,2473.91
+ORD-10929,2025-06-28,South,Furniture,Chair,9,1602.31
+ORD-11205,2025-06-28,East,Electronics,Monitor,1,264.45
+ORD-11204,2025-06-29,North,Electronics,Laptop,14,13862.84
+ORD-10412,2025-06-30,South,Electronics,Monitor,4,1074.74
+ORD-10777,2025-06-30,East,Furniture,Chair,17,3161.21
+ORD-11235,2025-06-30,East,Furniture,Desk,10,3074.35
+ORD-11278,2025-06-30,West,Office,Stapler,17,246.84
+ORD-10458,2025-07-01,South,Office,Stapler,16,240.39
+ORD-11361,2025-07-01,North,Office,Pen pack,11,102.41
+ORD-10433,2025-07-02,West,Furniture,Desk,34,11582.59
+ORD-10757,2025-07-02,South,Office,Stapler,11,154.3
+ORD-11238,2025-07-02,West,Furniture,Desk,10,3390.52
+ORD-10178,2025-07-03,East,Office,Pen pack,18,155.42
+ORD-10569,2025-07-03,West,Office,Pen pack,1,8.56
+ORD-10673,2025-07-03,West,Furniture,Desk,1,308.01
+ORD-11126,2025-07-03,East,Electronics,Headphones,15,1636.11
+ORD-10126,2025-07-04,South,Furniture,Desk,6,1849.93
+ORD-10437,2025-07-04,East,Electronics,Laptop,10,8674.4
+ORD-10773,2025-07-04,West,Furniture,Chair,14,2601.23
+ORD-10880,2025-07-04,North,Office,Notebook,11,63.7
+ORD-11043,2025-07-04,West,Electronics,Headphones,14,1763.36
+ORD-11188,2025-07-04,West,Office,Pen pack,18,161.33
+ORD-10008,2025-07-05,South,Office,Notebook,9,50.94
+ORD-10150,2025-07-05,West,Office,Pen pack,13,114.94
+ORD-11365,2025-07-05,South,Office,Pen pack,8,72.45
+ORD-10262,2025-07-06,South,Furniture,Lamp,5,217.65
+ORD-10836,2025-07-06,West,Furniture,Chair,14,2485.69
+ORD-10891,2025-07-07,West,Electronics,Monitor,18,4567.18
+ORD-11143,2025-07-07,South,Office,Stapler,9,135.77
+ORD-10121,2025-07-08,West,Office,Stapler,16,228.38
+ORD-11216,2025-07-08,South,Electronics,Monitor,5,1255.42
+ORD-11288,2025-07-08,South,Office,Notebook,10,60.96
+ORD-10110,2025-07-09,North,Office,Stapler,3,46.05
+ORD-10298,2025-07-09,East,Furniture,Desk,4,1305.2
+ORD-11391,2025-07-09,West,Office,Stapler,8,117.34
+ORD-10828,2025-07-10,East,Furniture,Lamp,13,612.88
+ORD-10883,2025-07-10,North,Electronics,Laptop,3,2778.72
+ORD-11005,2025-07-10,West,Furniture,Desk,16,5324.48
+ORD-10640,2025-07-11,East,Furniture,Lamp,11,518.89
+ORD-10737,2025-07-11,West,Furniture,Desk,11,3532.3
+ORD-10932,2025-07-11,South,Office,Notebook,7,43.78
+ORD-11125,2025-07-11,South,Furniture,Lamp,11,459.92
+ORD-10107,2025-07-12,West,Office,Notebook,6,32.81
+ORD-10345,2025-07-12,East,Electronics,Headphones,3,373.25
+ORD-10595,2025-07-12,South,Office,Notebook,8,47.14
+ORD-10384,2025-07-13,West,Electronics,Monitor,26,6218.85
+ORD-10410,2025-07-14,South,Furniture,Lamp,3,126.71
+ORD-10265,2025-07-15,West,Electronics,Laptop,12,11630.15
+ORD-10605,2025-07-15,East,Electronics,Headphones,12,1305.64
+ORD-10722,2025-07-15,West,Furniture,Lamp,10,405.88
+ORD-10736,2025-07-15,North,Furniture,Chair,5,933.03
+ORD-10793,2025-07-15,East,Office,Stapler,8,124.34
+ORD-10820,2025-07-15,South,Office,Stapler,7,109.55
+ORD-10177,2025-07-16,West,Electronics,Laptop,6,5456.07
+ORD-10324,2025-07-16,West,Electronics,Laptop,19,18197.46
+ORD-10368,2025-07-16,South,Furniture,Chair,9,1633.66
+ORD-10534,2025-07-16,South,Electronics,Laptop,1,960.54
+ORD-10567,2025-07-16,South,Furniture,Desk,4,1355.1
+ORD-10709,2025-07-16,West,Office,Stapler,5,76.08
+ORD-11094,2025-07-16,South,Furniture,Lamp,5,225.75
+ORD-10440,2025-07-17,North,Furniture,Chair,6,1117.98
+ORD-10193,2025-07-18,West,Furniture,Lamp,16,750.53
+ORD-10250,2025-07-18,West,Furniture,Lamp,3,134.61
+ORD-10280,2025-07-18,East,Furniture,Lamp,17,728.07
+ORD-10897,2025-07-18,West,Office,Stapler,14,211.09
+ORD-10945,2025-07-18,North,Office,Pen pack,9,75.64
+ORD-11010,2025-07-18,North,Electronics,Headphones,14,1661.76
+ORD-10429,2025-07-19,East,Furniture,Lamp,12,497.34
+ORD-10866,2025-07-19,West,Electronics,Headphones,21,2463.28
+ORD-11003,2025-07-19,South,Office,Notebook,2,12.36
+ORD-11232,2025-07-19,West,Electronics,Monitor,8,2085.84
+ORD-11354,2025-07-19,West,Office,Stapler,12,183.59
+ORD-11380,2025-07-19,South,Office,Stapler,6,88.45
+ORD-11345,2025-07-20,North,Furniture,Desk,6,1867.42
+ORD-10336,2025-07-21,East,Office,Pen pack,3,26.28
+ORD-10831,2025-07-21,South,Furniture,Desk,7,2391.27
+ORD-10923,2025-07-21,West,Office,Stapler,9,131.72
+ORD-11041,2025-07-21,East,Office,Pen pack,6,51.89
+ORD-11333,2025-07-21,North,Electronics,Headphones,6,742.69
+ORD-10380,2025-07-22,East,Electronics,Monitor,9,2254.72
+ORD-10445,2025-07-22,East,Office,Pen pack,11,101.04
+ORD-10469,2025-07-22,North,Office,Stapler,6,92.92
+ORD-10556,2025-07-22,North,Office,Pen pack,7,56.99
+ORD-10812,2025-07-22,West,Office,Notebook,2,10.92
+ORD-10865,2025-07-22,South,Electronics,Monitor,8,2101.98
+ORD-11392,2025-07-22,East,Office,Pen pack,1,9.03
+ORD-10308,2025-07-23,West,Office,Pen pack,14,114.79
+ORD-10360,2025-07-23,West,Electronics,Monitor,27,7241.21
+ORD-10432,2025-07-23,East,Electronics,Monitor,7,1771.93
+ORD-10068,2025-07-24,East,Furniture,Desk,13,4403.3
+ORD-10069,2025-07-24,East,Electronics,Laptop,8,7839.82
+ORD-10084,2025-07-24,South,Electronics,Monitor,3,802.67
+ORD-10459,2025-07-24,East,Furniture,Desk,13,3984.99
+ORD-11221,2025-07-24,East,Furniture,Lamp,5,222.86
+ORD-10130,2025-07-25,West,Electronics,Monitor,11,2638.01
+ORD-10807,2025-07-25,East,Office,Stapler,4,54.52
+ORD-11287,2025-07-25,West,Office,Pen pack,22,182.63
+ORD-10495,2025-07-26,East,Office,Pen pack,13,113.28
+ORD-10658,2025-07-26,West,Furniture,Chair,21,3816.28
+ORD-10557,2025-07-27,West,Office,Stapler,32,471.61
+ORD-10848,2025-07-27,North,Electronics,Laptop,6,5688.33
+ORD-11222,2025-07-27,West,Office,Pen pack,17,140.5
+ORD-11338,2025-07-27,West,Furniture,Lamp,16,722.59
+ORD-10063,2025-07-28,South,Electronics,Laptop,7,6958.77
+ORD-10625,2025-07-28,West,Office,Pen pack,11,101.29
+ORD-11135,2025-07-28,South,Electronics,Headphones,10,1133.24
+ORD-11211,2025-07-28,North,Furniture,Desk,7,2308.33
+ORD-10979,2025-07-29,West,Electronics,Monitor,21,5405.48
+ORD-10511,2025-07-30,West,Electronics,Laptop,3,2948.29
+ORD-11049,2025-07-30,East,Electronics,Laptop,6,5615.77
+ORD-11193,2025-07-30,East,Electronics,Laptop,12,10632.57
+ORD-10212,2025-07-31,East,Furniture,Chair,7,1214.66
+ORD-10861,2025-07-31,East,Electronics,Headphones,11,1190.09
+ORD-10959,2025-07-31,South,Office,Stapler,5,78.62
+ORD-10969,2025-07-31,East,Furniture,Desk,6,1890.74
+ORD-11064,2025-07-31,West,Electronics,Monitor,4,968.89
+ORD-10521,2025-08-01,West,Office,Pen pack,12,98.54
+ORD-11046,2025-08-01,West,Office,Stapler,20,290.45
+ORD-11357,2025-08-01,West,Furniture,Desk,21,6650.3
+ORD-11369,2025-08-01,East,Office,Stapler,11,154.57
+ORD-10132,2025-08-02,South,Office,Pen pack,3,27.78
+ORD-10318,2025-08-02,North,Furniture,Lamp,2,85.08
+ORD-10409,2025-08-02,East,Electronics,Laptop,9,8118.05
+ORD-11152,2025-08-02,South,Furniture,Chair,1,162.58
+ORD-10096,2025-08-03,South,Furniture,Desk,5,1629.16
+ORD-10535,2025-08-03,South,Furniture,Desk,4,1308.92
+ORD-10592,2025-08-03,South,Furniture,Chair,8,1377.08
+ORD-10609,2025-08-03,West,Office,Notebook,8,46.63
+ORD-10616,2025-08-03,North,Furniture,Desk,11,3791.45
+ORD-11292,2025-08-03,South,Furniture,Desk,14,4452.14
+ORD-11375,2025-08-03,West,Office,Stapler,1,14.75
+ORD-10094,2025-08-04,West,Office,Stapler,25,369.88
+ORD-10101,2025-08-04,East,Electronics,Headphones,16,1733.58
+ORD-10792,2025-08-04,East,Electronics,Monitor,5,1326.45
+ORD-11055,2025-08-04,East,Furniture,Chair,8,1332.18
+ORD-11241,2025-08-05,West,Furniture,Desk,12,4097.93
+ORD-11266,2025-08-05,South,Electronics,Laptop,10,9176.25
+ORD-10387,2025-08-06,West,Electronics,Laptop,11,10127.03
+ORD-10835,2025-08-06,South,Furniture,Lamp,5,227.89
+ORD-11047,2025-08-06,West,Furniture,Chair,8,1344.76
+ORD-11048,2025-08-06,North,Office,Pen pack,9,79.0
+ORD-11176,2025-08-06,West,Electronics,Monitor,9,2212.43
+ORD-10468,2025-08-07,West,Electronics,Headphones,9,1078.48
+ORD-10564,2025-08-07,South,Furniture,Desk,8,2629.97
+ORD-10906,2025-08-07,North,Electronics,Laptop,3,2846.09
+ORD-10948,2025-08-07,East,Office,Pen pack,6,53.89
+ORD-10986,2025-08-07,North,Furniture,Chair,11,1863.5
+ORD-11329,2025-08-07,East,Office,Notebook,5,29.48
+ORD-10133,2025-08-08,East,Office,Stapler,10,136.36
+ORD-10220,2025-08-08,North,Office,Stapler,9,125.15
+ORD-10498,2025-08-08,South,Furniture,Chair,5,883.89
+ORD-11215,2025-08-08,South,Electronics,Headphones,9,1124.13
+ORD-10035,2025-08-09,East,Furniture,Chair,6,1047.66
+ORD-10438,2025-08-09,West,Office,Stapler,9,123.31
+ORD-10928,2025-08-09,East,Office,Stapler,14,202.34
+ORD-10142,2025-08-10,East,Office,Pen pack,11,99.11
+ORD-10563,2025-08-10,West,Furniture,Desk,11,3580.71
+ORD-10689,2025-08-10,South,Furniture,Chair,5,899.6
+ORD-11322,2025-08-10,East,Office,Stapler,13,199.84
+ORD-11346,2025-08-10,West,Furniture,Lamp,3,141.73
+ORD-10022,2025-08-11,South,Furniture,Desk,12,3833.19
+ORD-10741,2025-08-11,North,Office,Stapler,5,69.23
+ORD-10926,2025-08-11,South,Electronics,Headphones,2,239.48
+ORD-11030,2025-08-11,East,Office,Stapler,9,123.08
+ORD-11042,2025-08-11,South,Office,Notebook,4,22.98
+ORD-10145,2025-08-12,West,Electronics,Headphones,14,1599.69
+ORD-10288,2025-08-12,West,Office,Pen pack,17,160.05
+ORD-10583,2025-08-12,West,Office,Pen pack,17,141.7
+ORD-10249,2025-08-13,South,Furniture,Chair,8,1494.27
+ORD-10296,2025-08-13,North,Electronics,Laptop,8,7252.85
+ORD-10487,2025-08-13,North,Electronics,Laptop,8,7764.2
+ORD-10485,2025-08-14,South,Furniture,Desk,4,1374.14
+ORD-10606,2025-08-14,West,Furniture,Desk,16,5019.32
+ORD-11014,2025-08-14,North,Furniture,Desk,8,2838.99
+ORD-11306,2025-08-14,North,Electronics,Laptop,9,8298.09
+ORD-10079,2025-08-15,West,Office,Notebook,4,23.44
+ORD-11166,2025-08-15,East,Office,Notebook,7,38.68
+ORD-11175,2025-08-15,East,Electronics,Monitor,4,1087.38
+ORD-11197,2025-08-15,East,Electronics,Monitor,14,3442.36
+ORD-11230,2025-08-15,West,Electronics,Laptop,16,15456.99
+ORD-10303,2025-08-16,North,Office,Pen pack,4,36.01
+ORD-10506,2025-08-16,North,Electronics,Monitor,6,1605.32
+ORD-10694,2025-08-16,West,Electronics,Headphones,9,1052.57
+ORD-10850,2025-08-16,East,Office,Stapler,3,41.63
+ORD-11121,2025-08-16,East,Furniture,Desk,8,2752.81
+ORD-11280,2025-08-16,South,Electronics,Headphones,6,710.19
+ORD-10375,2025-08-17,East,Electronics,Monitor,1,238.38
+ORD-10461,2025-08-17,East,Furniture,Chair,7,1279.97
+ORD-10803,2025-08-17,South,Electronics,Laptop,2,1854.88
+ORD-10846,2025-08-17,North,Furniture,Lamp,6,248.87
+ORD-10976,2025-08-17,East,Office,Notebook,10,55.83
+ORD-11174,2025-08-17,North,Electronics,Monitor,12,3002.51
+ORD-10242,2025-08-18,East,Office,Pen pack,9,78.27
+ORD-11069,2025-08-18,West,Office,Pen pack,11,103.38
+ORD-10269,2025-08-19,East,Electronics,Headphones,6,653.75
+ORD-10323,2025-08-19,South,Electronics,Laptop,7,6035.48
+ORD-10470,2025-08-19,West,Furniture,Desk,10,3443.69
+ORD-10479,2025-08-19,North,Furniture,Desk,7,2315.01
+ORD-11098,2025-08-19,North,Electronics,Headphones,13,1414.02
+ORD-11293,2025-08-19,South,Furniture,Lamp,7,315.83
+ORD-10550,2025-08-20,East,Electronics,Laptop,10,9647.46
+ORD-10700,2025-08-20,North,Electronics,Monitor,7,1864.56
+ORD-11317,2025-08-20,East,Office,Stapler,8,124.32
+ORD-10137,2025-08-21,North,Office,Notebook,13,81.01
+ORD-10210,2025-08-21,West,Electronics,Monitor,18,4828.15
+ORD-10788,2025-08-21,North,Electronics,Headphones,5,558.21
+ORD-11119,2025-08-21,North,Electronics,Monitor,11,2596.5
+ORD-11289,2025-08-21,West,Electronics,Laptop,12,11480.19
+ORD-11316,2025-08-21,East,Office,Stapler,19,284.55
+ORD-10501,2025-08-22,North,Furniture,Desk,8,2854.24
+ORD-10682,2025-08-22,East,Furniture,Lamp,12,538.56
+ORD-11395,2025-08-22,West,Electronics,Monitor,11,2641.28
+ORD-10483,2025-08-23,West,Office,Stapler,19,261.34
+ORD-10497,2025-08-23,East,Electronics,Monitor,2,499.02
+ORD-10615,2025-08-23,North,Office,Stapler,9,133.4
+ORD-10654,2025-08-23,South,Furniture,Lamp,6,256.47
+ORD-10942,2025-08-23,North,Electronics,Laptop,9,8323.34
+ORD-10961,2025-08-23,South,Furniture,Chair,3,548.87
+ORD-11294,2025-08-23,North,Electronics,Headphones,9,1084.27
+ORD-11371,2025-08-23,East,Electronics,Headphones,4,442.48
+ORD-10112,2025-08-24,South,Furniture,Desk,5,1598.87
+ORD-10174,2025-08-24,East,Office,Notebook,12,67.91
+ORD-10638,2025-08-24,East,Electronics,Headphones,6,715.35
+ORD-10742,2025-08-24,East,Electronics,Laptop,10,8908.97
+ORD-10832,2025-08-24,East,Office,Notebook,11,65.15
+ORD-10246,2025-08-25,North,Furniture,Lamp,5,218.55
+ORD-10087,2025-08-26,East,Furniture,Lamp,16,736.02
+ORD-10553,2025-08-26,East,Electronics,Laptop,13,11406.98
+ORD-10677,2025-08-26,North,Electronics,Laptop,17,16652.61
+ORD-11181,2025-08-26,South,Electronics,Laptop,3,2630.85
+ORD-10186,2025-08-28,North,Electronics,Laptop,10,9946.42
+ORD-11021,2025-08-28,North,Furniture,Chair,11,1985.29
+ORD-11080,2025-08-28,North,Office,Pen pack,9,78.09
+ORD-10407,2025-08-29,East,Electronics,Headphones,14,1590.86
+ORD-10155,2025-08-30,South,Furniture,Lamp,5,207.38
+ORD-10272,2025-08-30,South,Office,Pen pack,5,41.03
+ORD-10374,2025-08-30,South,Electronics,Monitor,5,1185.96
+ORD-10604,2025-08-30,West,Office,Pen pack,17,141.94
+ORD-10786,2025-08-30,West,Electronics,Laptop,15,14523.49
+ORD-11297,2025-08-30,East,Office,Stapler,7,109.73
+ORD-10161,2025-08-31,West,Furniture,Lamp,21,962.82
+ORD-10214,2025-08-31,North,Electronics,Laptop,8,7682.23
+ORD-10631,2025-08-31,East,Furniture,Desk,8,2789.76
+ORD-10635,2025-08-31,South,Office,Notebook,1,5.94
+ORD-10853,2025-08-31,North,Electronics,Headphones,7,822.02
+ORD-11068,2025-08-31,East,Electronics,Monitor,8,2161.29
+ORD-11350,2025-08-31,North,Furniture,Lamp,9,406.87
+ORD-10621,2025-09-01,East,Furniture,Desk,5,1616.16
+ORD-10790,2025-09-01,North,Office,Stapler,6,89.9
+ORD-10823,2025-09-01,East,Furniture,Desk,6,2109.66
+ORD-10842,2025-09-01,North,Furniture,Lamp,5,221.41
+ORD-11112,2025-09-01,South,Electronics,Laptop,3,2741.14
+ORD-11209,2025-09-01,East,Office,Stapler,3,41.75
+ORD-11324,2025-09-01,East,Office,Stapler,2,30.65
+ORD-10095,2025-09-02,North,Furniture,Chair,7,1276.41
+ORD-10863,2025-09-02,East,Electronics,Headphones,8,978.91
+ORD-11328,2025-09-02,East,Electronics,Laptop,6,5342.6
+ORD-10352,2025-09-03,South,Electronics,Monitor,5,1222.97
+ORD-10455,2025-09-03,West,Office,Stapler,9,140.2
+ORD-10593,2025-09-03,South,Electronics,Headphones,3,327.98
+ORD-11025,2025-09-03,West,Electronics,Headphones,11,1340.05
+ORD-10185,2025-09-04,East,Office,Pen pack,4,36.74
+ORD-11341,2025-09-04,South,Office,Notebook,3,17.38
+ORD-10347,2025-09-05,South,Electronics,Headphones,1,118.05
+ORD-10989,2025-09-05,East,Furniture,Lamp,2,92.45
+ORD-11008,2025-09-05,East,Furniture,Desk,8,2848.77
+ORD-10941,2025-09-06,North,Electronics,Laptop,6,5558.06
+ORD-11124,2025-09-06,North,Furniture,Desk,7,2205.57
+ORD-11261,2025-09-06,North,Electronics,Laptop,5,4498.66
+ORD-11344,2025-09-06,West,Electronics,Headphones,7,827.75
+ORD-11394,2025-09-06,West,Electronics,Monitor,4,1044.34
+ORD-10167,2025-09-07,North,Office,Notebook,8,44.89
+ORD-10478,2025-09-07,South,Office,Notebook,3,17.05
+ORD-10496,2025-09-07,East,Office,Notebook,12,65.81
+ORD-10772,2025-09-07,South,Electronics,Headphones,4,446.89
+ORD-11045,2025-09-07,West,Electronics,Laptop,11,9620.09
+ORD-11095,2025-09-07,North,Office,Pen pack,7,63.65
+ORD-10195,2025-09-08,West,Furniture,Desk,1,341.2
+ORD-10411,2025-09-08,West,Furniture,Desk,4,1373.49
+ORD-11101,2025-09-08,North,Furniture,Lamp,7,285.66
+ORD-11130,2025-09-08,South,Office,Pen pack,6,54.51
+ORD-11223,2025-09-08,West,Electronics,Monitor,15,4061.31
+ORD-11243,2025-09-08,North,Office,Stapler,5,69.82
+ORD-11393,2025-09-08,West,Electronics,Laptop,1,927.07
+ORD-10128,2025-09-09,North,Electronics,Monitor,5,1236.44
+ORD-10208,2025-09-09,West,Electronics,Laptop,9,7856.84
+ORD-10302,2025-09-09,South,Electronics,Laptop,7,6881.43
+ORD-10692,2025-09-09,East,Electronics,Headphones,8,896.07
+ORD-11171,2025-09-09,East,Office,Stapler,4,58.6
+ORD-11276,2025-09-09,West,Office,Pen pack,15,130.05
+ORD-11305,2025-09-09,South,Office,Stapler,5,74.66
+ORD-10827,2025-09-10,North,Office,Notebook,7,43.14
+ORD-10991,2025-09-10,South,Office,Notebook,4,24.15
+ORD-11184,2025-09-10,North,Office,Stapler,4,57.92
+ORD-11308,2025-09-11,North,Furniture,Chair,10,1743.6
+ORD-11327,2025-09-11,North,Furniture,Chair,11,1911.89
+ORD-10289,2025-09-12,West,Furniture,Lamp,7,296.1
+ORD-10588,2025-09-12,South,Furniture,Lamp,7,298.6
+ORD-10672,2025-09-12,South,Office,Notebook,6,37.65
+ORD-10674,2025-09-12,South,Office,Pen pack,5,45.03
+ORD-11087,2025-09-12,South,Office,Stapler,1,13.5
+ORD-11244,2025-09-12,East,Electronics,Monitor,4,967.47
+ORD-10276,2025-09-13,North,Office,Stapler,1,14.16
+ORD-10873,2025-09-13,East,Furniture,Lamp,7,320.89
+ORD-10978,2025-09-13,North,Office,Pen pack,6,52.45
+ORD-11220,2025-09-13,East,Office,Stapler,2,30.6
+ORD-10023,2025-09-14,South,Office,Notebook,3,18.55
+ORD-10968,2025-09-14,North,Electronics,Monitor,11,2632.05
+ORD-10270,2025-09-15,East,Electronics,Headphones,10,1085.07
+ORD-10311,2025-09-15,North,Electronics,Monitor,3,719.9
+ORD-10661,2025-09-15,East,Electronics,Laptop,5,4861.99
+ORD-11194,2025-09-15,South,Electronics,Monitor,1,254.5
+ORD-11332,2025-09-15,North,Electronics,Monitor,5,1205.53
+ORD-11359,2025-09-15,North,Electronics,Headphones,7,810.26
+ORD-10088,2025-09-16,West,Office,Pen pack,17,148.59
+ORD-10363,2025-09-16,West,Furniture,Desk,8,2778.0
+ORD-10547,2025-09-16,South,Office,Pen pack,6,49.21
+ORD-10706,2025-09-16,South,Furniture,Desk,4,1414.8
+ORD-10789,2025-09-16,West,Electronics,Monitor,12,2853.07
+ORD-11133,2025-09-16,North,Furniture,Lamp,6,258.97
+ORD-11249,2025-09-16,East,Furniture,Lamp,8,353.16
+ORD-10075,2025-09-17,East,Office,Pen pack,5,42.7
+ORD-10157,2025-09-17,East,Electronics,Headphones,1,121.07
+ORD-10279,2025-09-17,North,Furniture,Chair,7,1142.23
+ORD-10765,2025-09-17,North,Office,Stapler,6,86.47
+ORD-11234,2025-09-17,North,Furniture,Chair,1,178.66
+ORD-11366,2025-09-17,West,Office,Notebook,13,79.78
+ORD-10378,2025-09-19,West,Electronics,Headphones,14,1654.11
+ORD-10671,2025-09-19,North,Furniture,Desk,3,1038.07
+ORD-10829,2025-09-19,East,Furniture,Desk,4,1377.03
+ORD-10205,2025-09-20,North,Furniture,Lamp,2,83.99
+ORD-11323,2025-09-20,South,Furniture,Chair,7,1301.34
+ORD-10491,2025-09-21,North,Electronics,Headphones,10,1245.38
+ORD-10626,2025-09-21,South,Electronics,Headphones,4,488.2
+ORD-10770,2025-09-21,South,Furniture,Desk,7,2377.41
+ORD-11089,2025-09-21,West,Furniture,Chair,1,172.91
+ORD-10821,2025-09-22,North,Office,Pen pack,8,67.48
+ORD-10965,2025-09-22,North,Electronics,Headphones,9,1043.21
+ORD-10967,2025-09-22,South,Furniture,Lamp,6,261.29
+ORD-11009,2025-09-22,South,Electronics,Monitor,3,706.28
+ORD-10515,2025-09-23,South,Office,Pen pack,1,8.5
+ORD-10090,2025-09-24,West,Office,Notebook,9,50.91
+ORD-10546,2025-09-24,West,Office,Pen pack,2,17.77
+ORD-11154,2025-09-24,East,Furniture,Lamp,4,170.81
+ORD-11212,2025-09-24,South,Furniture,Chair,3,489.29
+ORD-11381,2025-09-24,East,Office,Notebook,8,43.37
+ORD-10862,2025-09-25,South,Furniture,Chair,4,747.59
+ORD-10895,2025-09-25,North,Electronics,Laptop,9,7924.1
+ORD-11254,2025-09-25,South,Furniture,Chair,5,902.52
+ORD-10125,2025-09-26,East,Electronics,Laptop,4,3588.86
+ORD-10627,2025-09-26,North,Electronics,Laptop,3,2939.14
+ORD-10688,2025-09-26,South,Office,Pen pack,1,8.93
+ORD-10950,2025-09-26,South,Furniture,Desk,3,942.18
+ORD-11177,2025-09-26,East,Electronics,Monitor,5,1317.44
+ORD-10259,2025-09-27,North,Office,Pen pack,4,37.13
+ORD-10568,2025-09-27,South,Office,Stapler,6,91.56
+ORD-10581,2025-09-27,East,Electronics,Headphones,2,241.36
+ORD-10987,2025-09-27,West,Office,Notebook,15,90.39
+ORD-11051,2025-09-27,East,Furniture,Lamp,7,287.2
+ORD-11147,2025-09-27,North,Furniture,Lamp,7,308.63
+ORD-11169,2025-09-27,South,Furniture,Desk,7,2150.05
+ORD-10517,2025-09-28,North,Furniture,Chair,8,1324.51
+ORD-11207,2025-09-28,South,Office,Notebook,6,37.61
+ORD-10025,2025-09-29,North,Office,Pen pack,2,17.52
+ORD-10045,2025-09-29,South,Electronics,Monitor,5,1185.62
+ORD-10171,2025-09-29,West,Office,Stapler,14,213.96
+ORD-10223,2025-09-29,South,Furniture,Chair,1,174.25
+ORD-10354,2025-09-29,South,Office,Notebook,7,42.32
+ORD-11370,2025-09-29,West,Electronics,Laptop,11,10046.59
+ORD-10903,2025-09-30,West,Electronics,Laptop,9,8369.84
+ORD-11067,2025-09-30,South,Furniture,Lamp,5,226.31
+ORD-11148,2025-09-30,East,Furniture,Lamp,3,135.54
+ORD-11195,2025-09-30,North,Furniture,Chair,2,373.47
+ORD-10263,2025-10-01,South,Furniture,Chair,8,1491.26
+ORD-10716,2025-10-01,East,Furniture,Desk,5,1567.06
+ORD-10907,2025-10-01,West,Furniture,Chair,8,1414.82
+ORD-11054,2025-10-01,North,Furniture,Chair,2,363.63
+ORD-10188,2025-10-02,North,Furniture,Chair,3,533.35
+ORD-10457,2025-10-02,North,Electronics,Laptop,3,2846.12
+ORD-10522,2025-10-02,South,Furniture,Desk,3,949.09
+ORD-10618,2025-10-02,East,Furniture,Chair,3,535.33
+ORD-10799,2025-10-02,West,Office,Pen pack,15,133.89
+ORD-10963,2025-10-02,North,Office,Notebook,10,58.06
+ORD-10999,2025-10-02,East,Furniture,Chair,3,561.15
+ORD-10073,2025-10-03,South,Furniture,Chair,4,655.56
+ORD-10113,2025-10-03,West,Furniture,Chair,1,184.29
+ORD-10739,2025-10-03,North,Office,Notebook,6,33.54
+ORD-11120,2025-10-03,South,Electronics,Laptop,3,2947.65
+ORD-11170,2025-10-03,West,Office,Stapler,22,316.52
+ORD-10102,2025-10-04,North,Furniture,Desk,2,678.48
+ORD-10202,2025-10-04,East,Electronics,Laptop,6,5142.71
+ORD-10599,2025-10-04,East,Office,Pen pack,8,68.01
+ORD-11116,2025-10-04,South,Furniture,Lamp,3,125.42
+ORD-11162,2025-10-04,South,Office,Pen pack,4,37.43
+ORD-11382,2025-10-04,East,Electronics,Headphones,5,549.94
+ORD-10577,2025-10-05,East,Electronics,Headphones,1,108.68
+ORD-10608,2025-10-05,West,Office,Notebook,1,6.14
+ORD-10053,2025-10-06,East,Office,Stapler,4,58.76
+ORD-10159,2025-10-06,West,Furniture,Chair,8,1483.83
+ORD-10197,2025-10-06,East,Electronics,Headphones,5,564.83
+ORD-10286,2025-10-06,West,Furniture,Desk,9,2917.85
+ORD-10350,2025-10-06,West,Furniture,Chair,17,2887.32
+ORD-11378,2025-10-06,West,Office,Pen pack,15,129.69
+ORD-10175,2025-10-07,South,Electronics,Headphones,2,250.03
+ORD-10541,2025-10-07,South,Electronics,Laptop,3,2963.6
+ORD-10749,2025-10-07,East,Office,Notebook,11,62.35
+ORD-11164,2025-10-07,East,Office,Stapler,4,62.73
+ORD-10376,2025-10-08,South,Office,Stapler,5,73.35
+ORD-10858,2025-10-08,West,Electronics,Monitor,3,755.42
+ORD-10039,2025-10-09,North,Electronics,Monitor,4,1091.89
+ORD-10122,2025-10-09,East,Furniture,Lamp,3,126.17
+ORD-10331,2025-10-09,East,Office,Stapler,9,133.87
+ORD-10755,2025-10-09,West,Office,Stapler,4,54.66
+ORD-10059,2025-10-10,West,Office,Notebook,6,33.0
+ORD-10135,2025-10-10,North,Electronics,Laptop,6,5479.28
+ORD-10211,2025-10-10,South,Furniture,Chair,6,1115.87
+ORD-10307,2025-10-10,South,Office,Notebook,4,21.84
+ORD-10314,2025-10-10,East,Electronics,Monitor,5,1268.0
+ORD-10405,2025-10-10,East,Furniture,Chair,5,872.94
+ORD-10894,2025-10-10,South,Office,Pen pack,3,24.75
+ORD-11167,2025-10-10,North,Furniture,Desk,1,326.48
+ORD-10439,2025-10-11,North,Office,Stapler,5,76.32
+ORD-10514,2025-10-11,East,Office,Notebook,8,45.37
+ORD-10890,2025-10-11,South,Electronics,Monitor,5,1221.35
+ORD-11349,2025-10-11,North,Furniture,Lamp,5,216.58
+ORD-10118,2025-10-12,North,Office,Notebook,9,52.56
+ORD-10219,2025-10-12,East,Electronics,Headphones,6,710.0
+ORD-10727,2025-10-12,East,Electronics,Laptop,5,4691.09
+ORD-10838,2025-10-12,West,Furniture,Desk,16,5018.03
+ORD-11027,2025-10-12,North,Furniture,Lamp,7,305.28
+ORD-10187,2025-10-13,East,Electronics,Headphones,2,216.5
+ORD-10647,2025-10-13,South,Furniture,Desk,4,1320.04
+ORD-10696,2025-10-13,North,Electronics,Monitor,9,2418.43
+ORD-10886,2025-10-13,East,Furniture,Lamp,7,300.42
+ORD-10232,2025-10-14,East,Electronics,Headphones,6,650.02
+ORD-10379,2025-10-14,West,Office,Pen pack,12,108.92
+ORD-10801,2025-10-14,West,Furniture,Chair,7,1243.18
+ORD-10888,2025-10-14,East,Office,Stapler,2,29.45
+ORD-10994,2025-10-14,South,Electronics,Monitor,4,1059.27
+ORD-11015,2025-10-14,North,Electronics,Monitor,6,1485.97
+ORD-11396,2025-10-14,East,Electronics,Monitor,7,1738.9
+ORD-10584,2025-10-15,East,Electronics,Monitor,4,983.86
+ORD-10697,2025-10-15,South,Office,Stapler,3,43.58
+ORD-11144,2025-10-15,South,Electronics,Headphones,4,466.45
+ORD-10131,2025-10-16,East,Electronics,Laptop,5,4359.4
+ORD-10337,2025-10-16,East,Furniture,Desk,5,1623.93
+ORD-10818,2025-10-16,West,Electronics,Headphones,14,1628.1
+ORD-10909,2025-10-16,South,Furniture,Lamp,5,233.76
+ORD-10570,2025-10-17,East,Furniture,Chair,7,1175.39
+ORD-10297,2025-10-18,North,Office,Notebook,9,54.1
+ORD-10425,2025-10-18,West,Furniture,Desk,18,6356.38
+ORD-10548,2025-10-18,North,Furniture,Lamp,7,295.83
+ORD-10576,2025-10-18,South,Office,Notebook,6,37.64
+ORD-11091,2025-10-18,East,Furniture,Lamp,4,170.18
+ORD-11248,2025-10-18,West,Furniture,Desk,7,2436.07
+ORD-10047,2025-10-19,South,Office,Stapler,2,27.18
+ORD-10518,2025-10-19,West,Furniture,Lamp,5,234.71
+ORD-11318,2025-10-19,South,Electronics,Laptop,4,3874.94
+ORD-10914,2025-10-20,South,Electronics,Laptop,2,1785.52
+ORD-11137,2025-10-20,North,Furniture,Chair,3,548.52
+ORD-11233,2025-10-20,West,Furniture,Lamp,3,138.8
+ORD-11285,2025-10-20,South,Electronics,Laptop,4,3946.17
+ORD-11312,2025-10-20,South,Furniture,Desk,4,1243.24
+ORD-10342,2025-10-21,North,Electronics,Laptop,2,1827.69
+ORD-10751,2025-10-21,West,Office,Stapler,7,109.41
+ORD-10783,2025-10-21,South,Electronics,Laptop,6,5350.81
+ORD-11057,2025-10-21,North,Office,Pen pack,8,73.54
+ORD-11165,2025-10-21,South,Office,Stapler,8,124.32
+ORD-10143,2025-10-22,North,Office,Pen pack,5,44.39
+ORD-10815,2025-10-22,North,Furniture,Desk,4,1307.06
+ORD-11186,2025-10-22,North,Furniture,Desk,3,988.54
+ORD-10072,2025-10-23,South,Furniture,Desk,4,1412.82
+ORD-10218,2025-10-23,South,Electronics,Monitor,1,247.65
+ORD-10393,2025-10-23,East,Electronics,Headphones,12,1485.27
+ORD-10905,2025-10-23,East,Office,Pen pack,4,36.19
+ORD-11001,2025-10-23,East,Furniture,Desk,2,710.9
+ORD-11247,2025-10-24,North,Office,Pen pack,1,8.47
+ORD-10949,2025-10-25,South,Electronics,Headphones,4,481.57
+ORD-11145,2025-10-25,South,Office,Notebook,5,28.44
+ORD-10173,2025-10-26,South,Electronics,Headphones,1,119.48
+ORD-10645,2025-10-26,South,Furniture,Lamp,2,90.63
+ORD-10915,2025-10-26,South,Electronics,Headphones,4,490.4
+ORD-10017,2025-10-27,West,Office,Pen pack,14,120.24
+ORD-10572,2025-10-27,South,Electronics,Laptop,4,3724.2
+ORD-10639,2025-10-27,North,Electronics,Monitor,7,1910.84
+ORD-10707,2025-10-27,West,Office,Notebook,8,48.18
+ORD-11311,2025-10-27,South,Office,Notebook,3,17.62
+ORD-10158,2025-10-28,West,Electronics,Headphones,4,471.74
+ORD-10176,2025-10-28,East,Office,Pen pack,4,34.03
+ORD-10776,2025-10-28,North,Office,Pen pack,1,8.8
+ORD-10819,2025-10-28,North,Furniture,Desk,4,1276.6
+ORD-10462,2025-10-29,South,Furniture,Desk,2,705.9
+ORD-10488,2025-10-29,East,Office,Stapler,4,55.25
+ORD-10768,2025-10-29,East,Electronics,Headphones,4,458.2
+ORD-11242,2025-10-29,North,Furniture,Chair,2,329.28
+ORD-11399,2025-10-29,West,Electronics,Headphones,9,1116.03
+ORD-10575,2025-10-30,North,Office,Stapler,8,114.33
+ORD-10766,2025-10-30,South,Electronics,Monitor,3,765.14
+ORD-10970,2025-10-30,South,Furniture,Desk,3,1056.8
+ORD-11028,2025-10-30,West,Electronics,Monitor,8,2022.5
+ORD-11132,2025-10-30,South,Office,Notebook,3,18.88
+ORD-10114,2025-10-31,East,Furniture,Desk,6,2105.78
+ORD-11155,2025-10-31,West,Furniture,Chair,13,2305.11
+ORD-11239,2025-10-31,North,Office,Notebook,3,18.55
+ORD-10140,2025-11-01,East,Furniture,Desk,3,979.58
+ORD-10390,2025-11-01,North,Furniture,Lamp,2,84.3
+ORD-10984,2025-11-01,South,Furniture,Lamp,1,41.13
+ORD-11219,2025-11-01,West,Electronics,Laptop,13,12667.6
+ORD-10020,2025-11-02,West,Office,Pen pack,16,129.85
+ORD-10328,2025-11-02,West,Furniture,Lamp,10,414.04
+ORD-10477,2025-11-02,South,Office,Pen pack,4,34.68
+ORD-10864,2025-11-02,South,Electronics,Monitor,2,511.72
+ORD-11296,2025-11-02,East,Electronics,Laptop,4,3950.71
+ORD-11190,2025-11-03,South,Office,Pen pack,6,54.15
+ORD-11298,2025-11-03,North,Electronics,Headphones,2,251.19
+ORD-10643,2025-11-04,West,Office,Pen pack,8,72.15
+ORD-10699,2025-11-04,West,Office,Stapler,5,71.59
+ORD-11214,2025-11-04,East,Office,Pen pack,5,47.15
+ORD-11257,2025-11-04,South,Furniture,Desk,1,311.79
+ORD-11291,2025-11-04,South,Furniture,Lamp,3,135.21
+ORD-10791,2025-11-05,North,Office,Stapler,3,43.41
+ORD-11203,2025-11-05,South,Office,Notebook,3,16.7
+ORD-11353,2025-11-05,West,Electronics,Headphones,17,2057.24
+ORD-10316,2025-11-06,East,Office,Notebook,5,27.2
+ORD-11026,2025-11-06,South,Office,Notebook,1,5.5
+ORD-11336,2025-11-06,East,Office,Notebook,5,28.78
+ORD-10373,2025-11-07,East,Furniture,Lamp,6,265.24
+ORD-10274,2025-11-08,West,Electronics,Headphones,8,898.34
+ORD-10526,2025-11-08,North,Furniture,Lamp,4,165.22
+ORD-10620,2025-11-08,West,Electronics,Headphones,11,1235.04
+ORD-10962,2025-11-08,West,Office,Pen pack,1,8.87
+ORD-10510,2025-11-09,South,Furniture,Chair,3,498.26
+ORD-10685,2025-11-09,West,Furniture,Lamp,8,325.56
+ORD-11052,2025-11-09,North,Electronics,Headphones,2,240.07
+ORD-10587,2025-11-10,South,Office,Stapler,5,68.67
+ORD-10867,2025-11-10,East,Furniture,Lamp,7,318.6
+ORD-10947,2025-11-10,South,Furniture,Desk,4,1340.87
+ORD-10973,2025-11-10,South,Furniture,Lamp,1,43.07
+ORD-10988,2025-11-10,North,Electronics,Monitor,4,1090.0
+ORD-11114,2025-11-10,North,Office,Pen pack,4,33.67
+ORD-11206,2025-11-10,South,Office,Stapler,6,91.3
+ORD-11348,2025-11-10,West,Electronics,Monitor,8,2051.84
+ORD-10206,2025-11-11,North,Office,Stapler,2,31.34
+ORD-10389,2025-11-11,North,Electronics,Laptop,4,3458.36
+ORD-10475,2025-11-11,North,Office,Notebook,7,39.77
+ORD-10579,2025-11-11,South,Electronics,Headphones,4,483.62
+ORD-11325,2025-11-11,South,Furniture,Lamp,5,216.88
+ORD-10235,2025-11-13,West,Office,Pen pack,14,115.07
+ORD-10260,2025-11-13,South,Office,Pen pack,4,36.14
+ORD-10734,2025-11-13,West,Office,Stapler,14,203.04
+ORD-10869,2025-11-13,West,Furniture,Lamp,11,491.74
+ORD-11360,2025-11-13,South,Electronics,Monitor,3,741.82
+ORD-10341,2025-11-14,West,Electronics,Monitor,6,1460.67
+ORD-10419,2025-11-14,East,Furniture,Chair,3,550.39
+ORD-10651,2025-11-14,North,Furniture,Desk,5,1657.62
+ORD-10051,2025-11-15,North,Electronics,Monitor,2,484.63
+ORD-10977,2025-11-15,East,Electronics,Headphones,6,701.74
+ORD-10209,2025-11-16,East,Furniture,Lamp,6,264.49
+ORD-10261,2025-11-16,South,Office,Pen pack,4,32.64
+ORD-11058,2025-11-16,North,Furniture,Chair,6,1109.93
+ORD-10138,2025-11-17,South,Furniture,Desk,1,352.33
+ORD-10602,2025-11-17,West,Electronics,Laptop,10,8965.83
+ORD-10856,2025-11-17,South,Electronics,Monitor,3,779.64
+ORD-10944,2025-11-17,East,Electronics,Monitor,5,1220.25
+ORD-11237,2025-11-17,East,Furniture,Desk,2,655.67
+ORD-11342,2025-11-17,South,Electronics,Headphones,3,346.78
+ORD-10241,2025-11-18,West,Furniture,Lamp,2,91.26
+ORD-11139,2025-11-18,North,Furniture,Lamp,2,85.49
+ORD-11386,2025-11-18,South,Furniture,Chair,2,362.6
+ORD-10083,2025-11-19,South,Office,Stapler,3,43.09
+ORD-10152,2025-11-19,South,Office,Notebook,3,17.3
+ORD-10339,2025-11-19,North,Office,Pen pack,9,76.13
+ORD-10560,2025-11-19,North,Office,Stapler,4,54.2
+ORD-10740,2025-11-19,South,Office,Pen pack,4,36.88
+ORD-10744,2025-11-19,West,Furniture,Chair,13,2293.73
+ORD-10840,2025-11-19,East,Furniture,Chair,5,816.44
+ORD-10921,2025-11-20,West,Electronics,Headphones,1,117.44
+ORD-11110,2025-11-20,West,Electronics,Laptop,9,7704.26
+ORD-10238,2025-11-21,North,Office,Stapler,5,71.45
+ORD-10724,2025-11-21,East,Office,Stapler,5,75.66
+ORD-10972,2025-11-21,East,Electronics,Monitor,4,1088.13
+ORD-10010,2025-11-22,East,Electronics,Headphones,2,241.27
+ORD-10589,2025-11-22,North,Office,Stapler,5,74.69
+ORD-10859,2025-11-22,West,Office,Stapler,6,89.63
+ORD-11245,2025-11-22,North,Office,Notebook,10,56.59
+ORD-10189,2025-11-23,East,Electronics,Monitor,1,243.12
+ORD-10953,2025-11-23,East,Electronics,Laptop,4,3480.86
+ORD-11253,2025-11-23,West,Office,Stapler,6,89.46
+ORD-10000,2025-11-24,North,Electronics,Monitor,4,1050.89
+ORD-10275,2025-11-24,West,Electronics,Laptop,9,8768.05
+ORD-10641,2025-11-24,East,Furniture,Chair,5,898.58
+ORD-11272,2025-11-24,East,Office,Notebook,3,17.39
+ORD-10317,2025-11-25,East,Office,Notebook,4,24.36
+ORD-10413,2025-11-25,North,Office,Notebook,4,24.62
+ORD-10690,2025-11-25,West,Electronics,Monitor,12,2813.45
+ORD-10735,2025-11-25,South,Electronics,Monitor,3,805.62
+ORD-10745,2025-11-25,North,Office,Stapler,4,54.41
+ORD-10761,2025-11-25,West,Furniture,Chair,14,2318.77
+ORD-10016,2025-11-26,West,Electronics,Headphones,12,1412.42
+ORD-10255,2025-11-26,East,Electronics,Monitor,4,1045.64
+ORD-10637,2025-11-26,East,Furniture,Chair,3,554.98
+ORD-10693,2025-11-26,West,Furniture,Desk,7,2170.14
+ORD-11275,2025-11-26,West,Electronics,Headphones,5,617.98
+ORD-10182,2025-11-27,North,Furniture,Chair,6,993.29
+ORD-10239,2025-11-27,South,Electronics,Laptop,6,5255.21
+ORD-10245,2025-11-27,North,Office,Stapler,4,58.56
+ORD-10383,2025-11-27,West,Furniture,Chair,11,1915.22
+ORD-10753,2025-11-27,South,Electronics,Laptop,2,1772.92
+ORD-10400,2025-11-28,North,Furniture,Chair,7,1170.0
+ORD-10566,2025-11-28,East,Furniture,Chair,7,1150.58
+ORD-10750,2025-11-28,East,Electronics,Monitor,6,1413.77
+ORD-11136,2025-11-28,North,Electronics,Headphones,3,348.8
+ORD-11259,2025-11-28,North,Electronics,Laptop,5,4469.31
+ORD-11286,2025-11-28,South,Electronics,Headphones,4,444.15
+ORD-10299,2025-11-29,East,Electronics,Laptop,3,2576.08
+ORD-10406,2025-11-29,East,Furniture,Chair,1,174.58
+ORD-10524,2025-11-29,North,Furniture,Lamp,1,42.11
+ORD-10940,2025-11-29,West,Electronics,Headphones,1,124.27
+ORD-11282,2025-11-29,South,Office,Stapler,1,14.52
+ORD-10162,2025-11-30,South,Furniture,Desk,6,1937.59
+ORD-10642,2025-11-30,East,Electronics,Laptop,3,2589.27
+ORD-10738,2025-11-30,South,Furniture,Lamp,4,188.23
+ORD-11071,2025-11-30,East,Furniture,Chair,1,169.21
+ORD-10486,2025-12-01,South,Furniture,Desk,1,347.65
+ORD-10597,2025-12-01,South,Office,Pen pack,1,8.31
+ORD-10695,2025-12-01,North,Electronics,Headphones,4,461.69
+ORD-10767,2025-12-01,South,Furniture,Chair,7,1176.2
+ORD-10340,2025-12-02,South,Office,Notebook,2,11.93
+ORD-10281,2025-12-03,North,Office,Stapler,4,60.81
+ORD-11077,2025-12-03,South,Office,Stapler,3,41.32
+ORD-10181,2025-12-04,South,Office,Notebook,4,24.85
+ORD-10893,2025-12-04,West,Electronics,Monitor,5,1303.23
+ORD-10939,2025-12-04,East,Electronics,Laptop,6,5380.08
+ORD-11012,2025-12-04,East,Electronics,Monitor,5,1210.92
+ORD-11061,2025-12-04,West,Furniture,Desk,2,638.65
+ORD-11201,2025-12-04,North,Furniture,Desk,3,1057.0
+ORD-11217,2025-12-04,North,Electronics,Laptop,4,3645.04
+ORD-10043,2025-12-05,West,Electronics,Laptop,1,897.28
+ORD-10394,2025-12-05,South,Furniture,Chair,3,533.93
+ORD-10434,2025-12-05,West,Electronics,Monitor,7,1658.07
+ORD-10582,2025-12-06,West,Office,Notebook,6,37.67
+ORD-10670,2025-12-06,East,Office,Stapler,4,62.09
+ORD-10733,2025-12-06,East,Furniture,Chair,6,1019.56
+ORD-10074,2025-12-07,East,Office,Pen pack,4,37.26
+ORD-10213,2025-12-07,East,Furniture,Desk,5,1705.14
+ORD-10278,2025-12-07,North,Office,Pen pack,6,52.71
+ORD-10503,2025-12-07,South,Electronics,Headphones,4,477.04
+ORD-11024,2025-12-07,East,Furniture,Chair,4,660.19
+ORD-11161,2025-12-07,East,Furniture,Desk,6,1950.11
+ORD-10054,2025-12-08,East,Office,Notebook,6,33.02
+ORD-10715,2025-12-08,West,Office,Stapler,2,31.02
+ORD-11081,2025-12-08,East,Furniture,Desk,4,1383.27
+ORD-11356,2025-12-08,West,Electronics,Laptop,9,7824.41
+ORD-10049,2025-12-09,East,Electronics,Headphones,4,460.5
+ORD-10065,2025-12-09,South,Furniture,Desk,1,346.16
+ORD-10097,2025-12-09,West,Office,Notebook,12,73.88
+ORD-10030,2025-12-10,East,Furniture,Lamp,3,122.8
+ORD-10050,2025-12-10,East,Furniture,Chair,10,1622.52
+ORD-10216,2025-12-10,North,Furniture,Chair,8,1387.35
+ORD-10717,2025-12-10,North,Electronics,Headphones,4,486.01
+ORD-10756,2025-12-10,North,Furniture,Desk,5,1772.64
+ORD-11044,2025-12-10,South,Electronics,Laptop,3,2873.37
+ORD-11299,2025-12-10,East,Electronics,Monitor,5,1178.02
+ORD-10338,2025-12-11,North,Furniture,Lamp,2,92.77
+ORD-10453,2025-12-11,West,Electronics,Monitor,11,2703.92
+ORD-10713,2025-12-11,South,Office,Stapler,2,31.39
+ORD-10983,2025-12-11,East,Office,Stapler,5,75.28
+ORD-10998,2025-12-11,West,Furniture,Desk,5,1689.94
+ORD-11073,2025-12-11,South,Office,Pen pack,5,45.07
+ORD-11210,2025-12-11,North,Electronics,Headphones,6,703.54
+ORD-11387,2025-12-11,South,Office,Pen pack,6,52.81
+ORD-10720,2025-12-12,South,Office,Stapler,2,30.53
+ORD-10001,2025-12-13,North,Office,Pen pack,6,48.86
+ORD-10493,2025-12-13,West,Furniture,Desk,14,4696.28
+ORD-10611,2025-12-13,South,Electronics,Headphones,3,333.34
+ORD-10228,2025-12-14,West,Office,Stapler,6,94.29
+ORD-10844,2025-12-14,South,Office,Stapler,2,31.41
+ORD-11100,2025-12-14,South,Office,Stapler,3,45.46
+ORD-10019,2025-12-15,West,Office,Notebook,6,34.48
+ORD-10652,2025-12-15,West,Office,Pen pack,1,8.3
+ORD-10800,2025-12-15,West,Electronics,Headphones,3,333.65
+ORD-10011,2025-12-16,North,Office,Stapler,7,97.2
+ORD-11070,2025-12-16,North,Electronics,Monitor,1,250.84
+ORD-10168,2025-12-17,East,Electronics,Monitor,11,2900.2
+ORD-10256,2025-12-17,North,Office,Stapler,2,28.63
+ORD-10283,2025-12-17,West,Office,Pen pack,12,107.43
+ORD-10421,2025-12-17,North,Office,Stapler,1,15.21
+ORD-10426,2025-12-17,East,Office,Stapler,4,61.65
+ORD-10686,2025-12-17,South,Furniture,Chair,4,652.97
+ORD-11033,2025-12-17,West,Furniture,Chair,11,1973.56
+ORD-11053,2025-12-17,East,Office,Notebook,2,12.43
+ORD-10554,2025-12-18,East,Office,Stapler,3,46.28
+ORD-10646,2025-12-18,West,Office,Pen pack,1,9.23
+ORD-10663,2025-12-18,South,Furniture,Chair,3,515.1
+ORD-10884,2025-12-18,East,Office,Notebook,8,48.25
+ORD-11295,2025-12-18,South,Office,Pen pack,4,36.23
+ORD-10136,2025-12-19,West,Furniture,Desk,8,2734.82
+ORD-10430,2025-12-19,North,Office,Stapler,5,72.42
+ORD-10585,2025-12-19,East,Electronics,Laptop,4,3835.43
+ORD-10956,2025-12-19,West,Electronics,Monitor,10,2593.33
+ORD-11183,2025-12-19,South,Electronics,Laptop,2,1927.94
+ORD-10060,2025-12-20,South,Office,Notebook,4,22.13
+ORD-10108,2025-12-20,South,Electronics,Monitor,4,1029.66
+ORD-10124,2025-12-20,South,Electronics,Laptop,3,2817.05
+ORD-10913,2025-12-20,East,Office,Stapler,7,103.26
+ORD-11339,2025-12-20,West,Furniture,Desk,2,624.76
+ORD-11362,2025-12-20,North,Office,Notebook,6,34.87
+ORD-10456,2025-12-21,West,Office,Notebook,9,55.85
+ORD-11159,2025-12-21,South,Electronics,Laptop,8,6973.29
+ORD-11187,2025-12-21,South,Furniture,Desk,3,926.09
+ORD-10449,2025-12-22,West,Office,Notebook,5,28.47
+ORD-10507,2025-12-22,South,Furniture,Desk,4,1270.71
+ORD-10759,2025-12-22,South,Office,Stapler,3,42.96
+ORD-11056,2025-12-22,East,Office,Stapler,4,59.2
+ORD-11218,2025-12-22,North,Office,Notebook,10,57.05
+ORD-10076,2025-12-23,East,Office,Notebook,6,34.45
+ORD-10086,2025-12-23,West,Electronics,Monitor,8,2014.42
+ORD-10194,2025-12-23,West,Office,Stapler,6,89.84
+ORD-10465,2025-12-23,West,Furniture,Desk,8,2570.51
+ORD-10607,2025-12-23,North,Electronics,Monitor,2,494.82
+ORD-10721,2025-12-23,East,Office,Stapler,4,54.42
+ORD-10794,2025-12-23,North,Furniture,Desk,4,1409.66
+ORD-11134,2025-12-23,North,Furniture,Chair,4,649.34
+ORD-10160,2025-12-24,South,Office,Pen pack,3,24.48
+ORD-10254,2025-12-24,West,Electronics,Monitor,7,1790.59
+ORD-10418,2025-12-24,West,Electronics,Laptop,12,10672.06
+ORD-10810,2025-12-24,South,Office,Notebook,2,11.98
+ORD-10191,2025-12-25,East,Office,Pen pack,2,16.52
+ORD-10381,2025-12-25,North,Office,Notebook,5,31.21
+ORD-10504,2025-12-25,South,Furniture,Lamp,4,167.76
+ORD-10711,2025-12-25,East,Office,Stapler,5,77.18
+ORD-10852,2025-12-25,North,Electronics,Laptop,3,2965.48
+ORD-11062,2025-12-25,South,Furniture,Desk,4,1293.94
+ORD-10003,2025-12-26,West,Electronics,Headphones,5,593.03
+ORD-10221,2025-12-26,East,Furniture,Chair,3,486.49
+ORD-10586,2025-12-26,West,Office,Notebook,9,55.15
+ORD-11102,2025-12-26,South,Electronics,Laptop,1,971.96
+ORD-10169,2025-12-27,North,Furniture,Desk,8,2731.15
+ORD-10301,2025-12-27,West,Electronics,Monitor,7,1715.96
+ORD-10371,2025-12-27,East,Office,Notebook,8,47.8
+ORD-11050,2025-12-27,East,Electronics,Monitor,1,239.54
+ORD-11138,2025-12-27,West,Electronics,Headphones,3,324.07
+ORD-10802,2025-12-28,West,Office,Notebook,12,72.88
+ORD-11231,2025-12-28,South,Furniture,Chair,6,993.79
+ORD-10032,2025-12-29,North,Electronics,Laptop,8,6920.78
+ORD-10398,2025-12-29,South,Furniture,Desk,1,334.42
+ORD-10527,2025-12-29,South,Office,Notebook,1,5.55
+ORD-10901,2025-12-29,North,Office,Pen pack,3,26.44
+ORD-10234,2025-12-30,West,Furniture,Desk,1,314.77
+ORD-10304,2025-12-30,North,Office,Stapler,4,55.42
+ORD-10305,2025-12-30,South,Furniture,Lamp,5,210.07
+ORD-10466,2025-12-30,North,Electronics,Headphones,2,221.92
+ORD-10481,2025-12-30,West,Furniture,Desk,4,1240.86
+ORD-10849,2025-12-30,East,Office,Stapler,7,100.73
+ORD-11022,2025-12-30,West,Furniture,Desk,10,3516.81
+ORD-11179,2025-12-30,South,Electronics,Laptop,2,1947.2
+ORD-10267,2025-12-31,North,Furniture,Desk,4,1379.68
+ORD-10428,2025-12-31,West,Electronics,Headphones,10,1230.24
+ORD-10712,2025-12-31,South,Electronics,Laptop,2,1808.41
+ORD-10975,2025-12-31,North,Furniture,Chair,3,511.07
+ORD-11031,2025-12-31,West,Electronics,Monitor,14,3601.46

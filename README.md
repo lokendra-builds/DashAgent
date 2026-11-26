@@ -159,7 +159,7 @@ For Ollama on localhost, start it with `OLLAMA_ORIGINS=http://localhost:8000 oll
 
 ## Deploy to GitHub Pages
 
-There is nothing to compile. On every push to `main`, a GitHub Actions workflow (`.github/workflows/pages.yml`) copies the site files (`index.html`, `css/`, `js/`, `vendor/`, `assets/`, `samples/`) into `dist/` and deploys it to GitHub Pages. For a fork: **Settings → Pages → Source: GitHub Actions**, then push.
+There is nothing to compile: the site is the files in this repo (`index.html`, `css/`, `js/`, `vendor/`, `assets/`, `samples/`). It is published from the `gh-pages` branch, which holds only those files.
 
 ## Project layout
 

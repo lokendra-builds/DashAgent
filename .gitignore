@@ -65,11 +65,7 @@ Thumbs.db
 desktop.ini
 
 # --- Workspace scratch ---
-# .github is local-only, except the Pages deploy workflow.
-.github/*
-!.github/workflows/
-.github/workflows/*
-!.github/workflows/pages.yml
+.github/
 scripts/
 requirements.txt
 CONTRIBUTING.md
